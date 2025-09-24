@@ -77,21 +77,15 @@ pagerSize = 10
     parent     = "menu.services"
 
 [[menu.main]]
-    name       = "Pelvic Floor Therapy"
-    url        = "/services/pelvic-floor-therapy/"
-    weight     = 4
-    parent     = "menu.services"
-
-[[menu.main]]
     name       = "Post-Surgery Rehab"
     url        = "/services/post-surgery-rehab/"
-    weight     = 5
+    weight     = 4
     parent     = "menu.services"
 
 [[menu.main]]
     name       = "Chronic Pain Management"
     url        = "/services/chronic-pain-management/"
-    weight     = 6
+    weight     = 5
     parent     = "menu.services"
 
 [[menu.main]]
