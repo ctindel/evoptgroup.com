@@ -14,11 +14,7 @@ Here's what they don't tell you: 80% of people over 50 have arthritis on X-ray, 
 ## The Great Arthritis Lie
 
 ### What Your X-Ray Really Shows
-Those "bone spurs" and "degeneration"? They're adaptations, not death sentences:
-- **Bone spurs** = your body adding support
-- **Joint space narrowing** = normal after decades of use
-- **Degeneration** = a scary word for normal changes
-- **Arthritis** = inflammation, not irreversible damage
+Those "bone spurs" and "degeneration" your doctor pointed out aren't death sentences—they're adaptations. Bone spurs represent your body intelligently adding support where it senses instability or excessive stress. Joint space narrowing is completely normal after decades of use, much like tire treads wearing down over time. "Degeneration" is simply a scary medical word for normal changes that occur with aging. Even "arthritis" just means inflammation, not irreversible damage—and inflammation can be reduced.
 
 Think of it like gray hair—visible aging that doesn't affect function.
 
@@ -128,25 +124,13 @@ Your beliefs about aging become self-fulfilling prophecies.
 
 ### Daily Minimums (15 minutes)
 **Morning Mobility (5 minutes):**
-1. Cat-cow: 10 reps
-2. Hip circles: 10 each direction
-3. Arm circles: 10 each way
-4. Ankle pumps: 20 each
-5. Gentle twists: 5 each side
+Start your day with cat-cow movements for 10 repetitions to mobilize your entire spine. Perform hip circles 10 times in each direction to lubricate the hip joints. Complete arm circles 10 times each way to maintain shoulder mobility. Execute ankle pumps 20 times on each foot to promote circulation and ankle flexibility. Finish with gentle spinal twists, 5 in each direction, to maintain rotational mobility.
 
 **Midday Movement (5 minutes):**
-1. Stand and walk: Every hour
-2. Desk stretches: Neck and shoulders
-3. Seated twists: 5 each
-4. Ankle circles: 10 each
-5. Deep breathing: 5 breaths
+Stand and walk every hour to counteract the stiffness that builds from prolonged sitting. Perform desk stretches focusing on your neck and shoulders, which bear the brunt of poor posture. Complete 5 seated twists in each direction to maintain spinal mobility throughout your workday. Do ankle circles, 10 in each direction, to keep your extremities mobile. Take 5 deep breaths to reduce stress and reset your nervous system.
 
 **Evening Strength (5 minutes):**
-1. Wall sits: 30 seconds
-2. Modified push-ups: 10 reps
-3. Glute bridges: 15 reps
-4. Standing balance: 30 seconds each leg
-5. Gentle stretching: 2 minutes
+Perform wall sits for 30 seconds to strengthen your legs and core without high impact. Complete 10 modified push-ups (against a wall or incline) to maintain upper body strength. Execute 15 glute bridges to strengthen the muscles that support your lower back and hips. Practice standing balance for 30 seconds on each leg to maintain proprioception and prevent falls. Finish with 2 minutes of gentle stretching to prepare your body for rest.
 
 ### Weekly Progression
 
@@ -178,39 +162,23 @@ Your beliefs about aging become self-fulfilling prophecies.
 
 ### Anti-Inflammatory Foods
 **Daily Essentials:**
-- Fatty fish (2-3x/week)
-- Colorful vegetables (5+ servings)
-- Berries (1 cup)
-- Nuts and seeds (handful)
-- Green tea (2-3 cups)
+Include fatty fish like salmon, mackerel, or sardines 2-3 times per week for their powerful anti-inflammatory omega-3 fatty acids. Consume 5 or more servings of colorful vegetables daily to provide a wide spectrum of anti-inflammatory compounds and antioxidants. Eat 1 cup of berries daily for their concentrated antioxidants that combat inflammation. Include a handful of nuts and seeds for healthy fats and vitamin E. Drink 2-3 cups of green tea for its polyphenols that reduce inflammation and support joint health.
 
 ### Supplements That Actually Work
 **Evidence-Based Options:**
-1. **Omega-3:** 2-3g daily
-2. **Turmeric/Curcumin:** 500-1000mg with black pepper
-3. **Vitamin D:** 2000-4000 IU (test levels)
-4. **Glucosamine/Chondroitin:** Mixed evidence, worth trying
-5. **Collagen:** 10-15g daily
+Omega-3 fatty acids at 2-3 grams daily have strong evidence for reducing inflammation and joint pain. Turmeric or curcumin supplements at 500-1000mg daily (taken with black pepper for absorption) can significantly reduce inflammatory markers. Vitamin D at 2000-4000 IU daily supports bone health and immune function, but test your levels first. Glucosamine and chondroitin have mixed research evidence but are worth trying for 2-3 months to see if you respond. Collagen peptides at 10-15 grams daily may support joint cartilage and reduce pain in some individuals.
 
 ### Foods to Minimize
-- Processed sugars
-- Refined grains
-- Excessive red meat
-- Fried foods
-- Alcohol excess
+Limit processed sugars that trigger inflammatory pathways and provide empty calories without nutritional benefit. Reduce refined grains that spike blood sugar and lack the fiber and nutrients found in whole grains. Moderate excessive red meat consumption, as it's high in inflammatory compounds, though small amounts can be part of a healthy diet. Avoid fried foods that are loaded with inflammatory trans fats and oxidized oils. Limit alcohol excess, as it promotes inflammation and interferes with sleep quality and recovery processes.
 
 ## The Exercise Prescription That Reverses "Aging"
 
 ### Strength Training (2-3x/week)
 **Focus Areas:**
-- Compound movements
-- Progressive overload
-- Full range of motion
-- Proper form over weight
-- Recovery between sessions
+Prioritize compound movements that work multiple muscle groups simultaneously and mirror real-life activities. Apply progressive overload by gradually increasing weight, reps, or difficulty to continue challenging your muscles and bones. Use full range of motion whenever possible to maintain and improve joint flexibility while building strength. Always prioritize proper form over lifting heavier weights, as poor form increases injury risk and reduces exercise effectiveness. Allow adequate recovery between sessions, typically 48 hours for the same muscle groups, to permit adaptation and prevent overuse injuries.
 
 **Sample Workout:**
-1. Squats or leg press: 3x12
+Begin with squats or leg press for 3 sets of 12 repetitions to strengthen the muscles supporting your knees and hips.
 2. Rows or lat pulls: 3x12
 3. Chest press or push-ups: 3x12
 4. Core work: 3x15

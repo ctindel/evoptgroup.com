@@ -50,70 +50,40 @@ Being sidelined while teammates continue can lead to feelings of disconnection a
 ## The Path Back: Strategies That Actually Work
 
 ### 1. Graduated Exposure
-Just like physical therapy progresses gradually, psychological recovery needs the same approach:
-- Start with visualization of successful movements
-- Progress to controlled practice environments
-- Add complexity and competition slowly
-- Celebrate small wins along the way
+Just like physical therapy progresses gradually, psychological recovery needs the same systematic approach. Start with visualization of successful movements in your mind, progress to controlled practice environments where you feel safe, add complexity and competition slowly as confidence builds, and celebrate small wins along the way rather than focusing only on major milestones.
 
 ### 2. Reframe Your Narrative
 Instead of "I'm coming back from injury," try "I'm becoming a smarter, more complete athlete." This isn't about getting back to where you were—it's about evolving into something better.
 
 ### 3. Focus on Process, Not Outcomes
-- Set daily intention goals, not just performance goals
-- "Today I'll focus on my footwork" versus "I need to score 20 points"
-- Measure progress in confidence, not just statistics
+Shift your mindset by setting daily intention goals rather than just performance goals. Instead of "I need to score 20 points," try "Today I'll focus on my footwork." Measure progress in confidence levels and movement quality, not just statistics and performance metrics.
 
 ### 4. Develop Pre-Performance Routines
-Routines create familiarity and control:
-- Same warm-up sequence every time
-- Consistent mental preparation
-- Familiar music or mantras
-- Physical cues that signal "game mode"
+Routines create familiarity and control in uncertain situations. Use the same warm-up sequence every time to build muscle memory, maintain consistent mental preparation rituals, incorporate familiar music or mantras that create positive associations, and develop physical cues that signal "game mode" to your nervous system.
 
 ### 5. Use Cognitive Anchors
-Create new positive associations:
-- Pair movements with empowering thoughts
-- Use physical cues (like tapping your chest) to trigger confidence
-- Develop a "reset" gesture when doubt creeps in
+Create new positive associations to replace fear-based ones. Pair specific movements with empowering thoughts, use physical cues like tapping your chest to trigger confidence when needed, and develop a "reset" gesture you can use when doubt creeps in during performance.
 
 ### 6. Practice Pressure Situations
-- Simulate game-like stress in practice
-- Gradually increase stakes
-- Practice failing and recovering
-- Build evidence that you can handle adversity
+Prepare your mind for competition by simulating game-like stress in controlled practice environments. Gradually increase the stakes as you progress, practice failing and recovering gracefully, and systematically build evidence that you can handle adversity and still perform.
 
 ## Real-World Implementation
 
 ### Week 1-2: Foundation Building
-- Daily visualization: 10 minutes imagining successful performance
-- Journal three things that felt good in each session
-- Practice breathing techniques for anxiety management
+Spend 10 minutes daily visualizing successful performance in vivid detail. Journal three specific things that felt good in each training session to build positive associations. Practice breathing techniques for anxiety management, learning to calm your nervous system on command.
 
 ### Week 3-4: Controlled Challenges
-- Add specific skill work at 70% intensity
-- Introduce light competition with trusted partners
-- Focus on one element at a time
+Add specific skill work at 70% intensity to gradually increase demands on your confidence. Introduce light competition with trusted partners who understand your journey. Focus on mastering one element at a time rather than trying to perfect everything simultaneously.
 
 ### Week 5-6: Integration
-- Increase complexity and speed
-- Add unpredictability to drills
-- Practice in front of others
-- Begin scrimmaging or practice games
+Increase complexity and speed as your confidence grows stronger. Add unpredictability to drills to simulate real game situations. Practice performing in front of others to desensitize yourself to external pressure. Begin scrimmaging or practice games with gradually increasing intensity.
 
 ### Week 7-8: Performance Ready
-- Full competition scenarios
-- Maintain mental skills practice
-- Have contingency plans for setbacks
-- Trust the process
+Engage in full competition scenarios while maintaining your mental skills practice. Have contingency plans ready for potential setbacks so you're not caught off-guard. Most importantly, trust the process you've been building over these weeks.
 
 ## The Power of Support
 
-Don't go it alone. Build your comeback team:
-- A physical therapist who understands the mental side
-- Teammates who push but also understand
-- A sports psychologist if anxiety persists
-- Family who supports process over results
+Don't go it alone—build your comeback team strategically. Include a physical therapist who understands the mental side of recovery, teammates who push you but also understand your journey, a sports psychologist if anxiety persists, and family members who support your process over just results.
 
 At Evo PT Group, we recognize that return to sport is as much mental as physical. Our comprehensive approach addresses both aspects, and we accept insurance to make this specialized care accessible.
 
@@ -123,22 +93,13 @@ Expect non-linear progress. You might have days where fear returns or confidence
 
 ## The Athlete You're Becoming
 
-Here's what injury survivors often report once they've fully returned:
-- Greater body awareness
-- Improved mental toughness
-- Better preparation habits
-- Increased empathy for others
-- Deeper appreciation for their sport
+Here's what injury survivors consistently report once they've fully returned to competition: they develop significantly greater body awareness that actually helps prevent future injuries, as they've learned to listen to and trust their body's signals. They report improved mental toughness that serves them not just in sport but in all challenging areas of life, as they've proven to themselves they can overcome adversity. They develop better preparation habits that enhance their performance beyond their previous levels, having learned the value of systematic preparation. They gain increased empathy for others facing similar challenges, often becoming leaders and mentors for teammates going through difficulties. Perhaps most surprisingly, they report a deeper appreciation for their sport that renews their passion and joy in ways they didn't expect.
 
 You're not just returning to who you were—you're becoming who you're meant to be.
 
 ## Insurance Coverage for Comprehensive Care
 
-Good news: most insurance plans cover physical therapy that includes return-to-sport protocols. At Evo PT Group, we provide:
-- Physical readiness testing
-- Sport-specific movement training
-- Psychological readiness assessment
-- Graduated return protocols
+Good news: most insurance plans cover physical therapy that includes return-to-sport protocols, making comprehensive care accessible when you need it most. At Evo PT Group, our comprehensive return-to-sport program includes thorough physical readiness testing that ensures your body can handle the demands of competition, sport-specific movement training that prepares you for the exact movements and stresses your sport requires, psychological readiness assessment to ensure you're mentally prepared for the challenges ahead, and carefully graduated return protocols that progress at the right pace for lasting success rather than quick fixes that lead to setbacks.
 
 We'll verify your benefits and help you understand your coverage for comprehensive return-to-sport care.
 
