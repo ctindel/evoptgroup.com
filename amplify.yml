@@ -1,0 +1,14 @@
+version: 1
+frontend:
+  phases:
+    build:
+      commands:
+        #- git submodule update --init --recursive --depth 1
+        - git clone https://github.com/devcows/hugo-universal-theme themes/hugo-universal-theme
+        - hugo
+  artifacts:
+    baseDirectory: public
+    files:
+      - '**/*'
+  cache:
+    paths: []

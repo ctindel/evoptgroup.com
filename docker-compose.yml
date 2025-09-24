@@ -1,0 +1,22 @@
+version: '2'
+services:
+  evopt:
+    build:
+      context: .
+    image: evopt
+    container_name: evopt
+    volumes:
+      - .:/mnt/evopt
+    ports:
+      - "8080:1313"
+    command: /tmp/evopt/run_local.sh
+  evopt_shell:
+    build:
+      context: .
+    image: evopt
+    container_name: evopt_shell
+    volumes:
+      - .:/mnt/evopt
+    ports:
+      - "8080:1313"
+    command: /tmp/evopt/run_shell.sh

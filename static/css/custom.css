@@ -1,0 +1,632 @@
+<link rel="stylesheet" href="https://maxst.icons8.com/vue-static/landings/line-awesome/font-awesome-line-awesome/css/all.min.css">
+
+/* ===== EVOPT COLOR SCHEME IMPLEMENTATION ===== */
+/* Primary Colors for EvOpt Group */
+:root {
+  --evopt-primary: #193B44;
+  --evopt-secondary: #2B4E53;
+  --evopt-accent: #AF8B5A;
+  --evopt-dark: #0F2329;
+  --evopt-light-gray: #F5F5F5;
+  --evopt-white: #FFFFFF;
+  --evopt-text: #333333;
+}
+
+/* ===== GLOBAL OVERRIDES ===== */
+/* Override theme primary color */
+a {
+  color: #193B44;
+}
+
+a:hover {
+  color: #658082;
+}
+
+.btn-template-main,
+#heading-breadcrumbs a {
+  color: #AF8B5A;
+}
+
+.navbar ul.nav > li > a:hover,
+.navbar ul.nav > li > a:focus {
+  color: #658082 !important;
+}
+
+.navbar ul.nav > li.active > a {
+  color: #48676A !important;
+}
+
+
+/* Primary buttons */
+.btn-template-main {
+  color: #fff;
+  background-color: #193B44;
+  border-color: #193B44;
+}
+
+.btn-template-main:hover,
+.btn-template-main:focus,
+.btn-template-main:active,
+.btn-template-main.active {
+  background: #2B4E53;
+  border-color: #2B4E53;
+}
+
+/* Navigation bar styling */
+.navbar-default {
+  background: #ffffff;
+  border-bottom: 1px solid #F5F5F5;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: #000000;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #658082 !important;
+  background-color: transparent;
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #48676A !important;
+  background-color: transparent;
+}
+
+/* Dropdown menu styling */
+.navbar-default .navbar-nav .dropdown-menu {
+  background-color: #ffffff;
+  border: 1px solid #F5F5F5;
+}
+
+.navbar-default .navbar-nav .dropdown-menu > li > a {
+  color: #000000;
+}
+
+.navbar-default .navbar-nav .dropdown-menu > li > a:hover,
+.navbar-default .navbar-nav .dropdown-menu > li > a:focus {
+  color: #658082 !important;
+  background-color: #F5F5F5;
+}
+
+/* When dropdown is open, make the parent link white for visibility */
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+  color: #ffffff !important;
+  background-color: #193B44;
+}
+
+/* Heading sections */
+#heading-breadcrumbs {
+  background: #193B44;
+  color: #ffffff;
+}
+
+#heading-breadcrumbs h1 {
+  color: #ffffff;
+}
+
+/* Box and panel styling */
+.box-simple {
+  border-color: #F5F5F5;
+}
+
+.box-simple .icon {
+  background-color: #193B44;
+  color: #ffffff;
+}
+
+.box-simple:hover .icon {
+  background-color: #AF8B5A;
+}
+
+/* Home boxes */
+.home-carousel {
+  background: #193B44;
+}
+
+.home-carousel .dark-mask {
+  background: rgba(25, 59, 68, 0.7);
+}
+
+/* Testimonials section */
+section.bar {
+  background: #ffffff;
+}
+
+section.bar.background-gray {
+  background: #F5F5F5;
+}
+
+/* Footer styling */
+#footer {
+  background: #193B44;
+  color: #F5F5F5;
+}
+
+#footer a {
+  color: #AF8B5A;
+}
+
+#footer a:hover {
+  color: #D4A574;
+}
+
+#footer h4 {
+  color: #ffffff;
+}
+
+#copyright {
+  background: #0F2329;
+  color: #F5F5F5;
+  border-top: 1px solid #2B4E53;
+}
+
+#copyright .privacy-link {
+  color: #F5F5F5;
+}
+
+#copyright .privacy-link:hover {
+  color: #AF8B5A;
+  text-decoration: none;
+}
+
+/* Social icons */
+.social a {
+  background: transparent;
+  color: #AF8B5A;
+  border: 1px solid #AF8B5A;
+}
+
+.social a:hover {
+  background: #AF8B5A;
+  border-color: #AF8B5A;
+  color: #193B44;
+}
+
+/* Top bar social icons specific styling */
+#top .social a {
+  background: transparent;
+  color: #ffffff;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+#top .social a:hover {
+  background: #AF8B5A;
+  border-color: #AF8B5A;
+  color: #ffffff;
+}
+
+/* Pagination */
+.pagination > li > a,
+.pagination > li > span {
+  color: #AF8B5A;
+}
+
+.pagination > li > a:hover,
+.pagination > li > span:hover,
+.pagination > li > a:focus,
+.pagination > li > span:focus {
+  color: #193B44;
+  background-color: #F5F5F5;
+}
+
+.pagination > .active > a,
+.pagination > .active > span,
+.pagination > .active > a:hover,
+.pagination > .active > span:hover,
+.pagination > .active > a:focus,
+.pagination > .active > span:focus {
+  background-color: #193B44;
+  border-color: #193B44;
+}
+
+/* ===== CUSTOM BUTTON STYLES (Updated with EvoGyms colors) ===== */
+.orderbutton {
+	-moz-box-shadow:inset 0px 1px 0px 0px #2B4E53;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #2B4E53;
+	box-shadow:inset 0px 1px 0px 0px #2B4E53;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #193B44), color-stop(1, #0F2329));
+	background:-moz-linear-gradient(top, #193B44 5%, #0F2329 100%);
+	background:-webkit-linear-gradient(top, #193B44 5%, #0F2329 100%);
+	background:-o-linear-gradient(top, #193B44 5%, #0F2329 100%);
+	background:-ms-linear-gradient(top, #193B44 5%, #0F2329 100%);
+	background:linear-gradient(to bottom, #193B44 5%, #0F2329 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#193B44', endColorstr='#0F2329',GradientType=0);
+	background-color:#193B44;
+	-moz-border-radius:0px;
+	-webkit-border-radius:0px;
+	border-radius:0px;
+	border:1px solid #0F2329;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:arial, sans-serif;
+	font-size:16px;
+	padding:10px 20px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #0F2329;
+	transition: all 0.3s ease;
+}
+.orderbutton:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #2B4E53), color-stop(1, #193B44));
+	background:-moz-linear-gradient(top, #2B4E53 5%, #193B44 100%);
+	background:-webkit-linear-gradient(top, #2B4E53 5%, #193B44 100%);
+	background:-o-linear-gradient(top, #2B4E53 5%, #193B44 100%);
+	background:-ms-linear-gradient(top, #2B4E53 5%, #193B44 100%);
+	background:linear-gradient(to bottom, #2B4E53 5%, #193B44 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#2B4E53', endColorstr='#193B44',GradientType=0);
+	background-color:#2B4E53;
+	text-decoration: none;
+	border-color:#193B44;
+}
+.orderbutton:active {
+	position:relative;
+	top:1px;
+	background-color:#AF8B5A;
+}
+
+.sheetmusicdownload {
+	-moz-box-shadow:inset 0px 1px 0px 0px #D4A574;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #D4A574;
+	box-shadow:inset 0px 1px 0px 0px #D4A574;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #AF8B5A), color-stop(1, #8B6E47));
+	background:-moz-linear-gradient(top, #AF8B5A 5%, #8B6E47 100%);
+	background:-webkit-linear-gradient(top, #AF8B5A 5%, #8B6E47 100%);
+	background:-o-linear-gradient(top, #AF8B5A 5%, #8B6E47 100%);
+	background:-ms-linear-gradient(top, #AF8B5A 5%, #8B6E47 100%);
+	background:linear-gradient(to bottom, #AF8B5A 5%, #8B6E47 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#AF8B5A', endColorstr='#8B6E47',GradientType=0);
+	background-color:#AF8B5A;
+	-moz-border-radius:0px;
+	-webkit-border-radius:0px;
+	border-radius:0px;
+	border:1px solid #8B6E47;
+	display:inline-block;
+	cursor:pointer;
+	text-transform: uppercase;
+	color:#ffffff;
+	font-family:arial, sans-serif;
+	font-size:16px;
+	padding:10px 20px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #6B563A;
+	transition: all 0.3s ease;
+}
+
+.sheetmusicdownload:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #8B6E47), color-stop(1, #AF8B5A));
+	background:-moz-linear-gradient(top, #8B6E47 5%, #AF8B5A 100%);
+	background:-webkit-linear-gradient(top, #8B6E47 5%, #AF8B5A 100%);
+	background:-o-linear-gradient(top, #8B6E47 5%, #AF8B5A 100%);
+	background:-ms-linear-gradient(top, #8B6E47 5%, #AF8B5A 100%);
+	background:linear-gradient(to bottom, #8B6E47 5%, #AF8B5A 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#8B6E47', endColorstr='#AF8B5A',GradientType=0);
+	background-color:#8B6E47;
+	text-decoration: none;
+	border-color:#6B563A;
+}
+
+.sheetmusicdownload:active {
+	position:relative;
+	top:1px;
+	background-color:#193B44;
+}
+
+/* ===== TESTIMONIALS STYLING ===== */
+.longtestimonials {
+  padding: 0;
+  margin-bottom: 0px;
+}
+
+.longtestimonials .item {
+  list-style-type: none;
+  margin: 5px 50px 30px 15px;
+  background: #fff;
+  padding-bottom: 60px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  border: 1px solid #F5F5F5;
+}
+
+.longtestimonials .item .longtestimonial {
+  position: relative;
+  padding: 20px;
+}
+
+.longtestimonials .item .longtestimonial:before,
+.longtestimonials .item .longtestimonial:after {
+  content: " ";
+  display: table;
+}
+
+.longtestimonials .item .longtestimonial:after {
+  clear: both;
+}
+
+.longtestimonials .item .longtestimonial .text {
+  color: #333333;
+  margin-bottom: 40px;
+}
+
+.longtestimonials .item .longtestimonial .bottom {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 20px;
+  height: 50px;
+}
+
+.longtestimonials .item .longtestimonial .name-picture {
+  float: left;
+  width: 95%;
+  text-align: left;
+}
+
+.longtestimonials .item .longtestimonial .name-picture h5 {
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #AF8B5A;
+}
+
+.longtestimonials .item .longtestimonial .name-picture p {
+  color: #333333;
+  margin: 0;
+  font-size: 12px;
+}
+
+.longtestimonials .item .longtestimonial .name-picture img {
+  float: left;
+  width: 60px;
+  border-radius: 30px;
+  margin-right: 10px;
+  border: 2px solid #AF8B5A;
+}
+
+/* ===== NAVBAR BRAND ===== */
+.navbar-brand {
+  padding: 10px 15px;
+  color: #193B44 !important;
+}
+
+.navbar-brand:hover {
+  color: #658082 !important;
+}
+
+/* Top bar styling */
+#top {
+  background: #193B44;
+  color: #ffffff;
+  border-bottom: 1px solid #2B4E53;
+}
+
+#top .contact-item {
+  color: #ffffff;
+}
+
+#top .contact-item:hover {
+  color: #AF8B5A;
+}
+
+/* Navbar toggle button for mobile */
+.navbar-default .navbar-toggle {
+  border-color: #193B44;
+  background-color: transparent;
+}
+
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+  background-color: #F5F5F5;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #193B44;
+}
+
+/* ===== TYPOGRAPHY OVERRIDES ===== */
+body {
+  font-family: 'Roboto', 'Arial', sans-serif;
+  color: #333333;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #193B44;
+  font-weight: 700;
+}
+
+/* ===== FORM ELEMENTS ===== */
+.form-control:focus {
+  border-color: #AF8B5A;
+  box-shadow: 0 0 0 0.2rem rgba(175, 139, 90, 0.25);
+}
+
+input[type="submit"],
+button[type="submit"] {
+  background-color: #193B44;
+  border-color: #193B44;
+  color: #ffffff;
+  padding: 10px 20px;
+  border-radius: 0px;
+  transition: all 0.3s ease;
+}
+
+input[type="submit"]:hover,
+button[type="submit"]:hover {
+  background-color: #2B4E53;
+  border-color: #2B4E53;
+}
+
+/* ===== CAROUSEL OVERRIDES ===== */
+/* Removed - see pagination styles below */
+
+/* ===== BADGES AND LABELS ===== */
+.label-primary {
+  background-color: #193B44;
+}
+
+.badge-primary {
+  background-color: #193B44;
+}
+
+/* ===== PROGRESS BARS ===== */
+.progress-bar {
+  background-color: #193B44;
+}
+
+/* ===== BREADCRUMBS ===== */
+.breadcrumb {
+  background-color: #F5F5F5;
+}
+
+.breadcrumb a {
+  color: #AF8B5A;
+}
+
+.breadcrumb > .active {
+  color: #193B44;
+}
+
+/* ===== BLOCKQUOTES ===== */
+blockquote {
+  border-left: 5px solid #AF8B5A;
+  background: #F5F5F5;
+  padding: 15px 20px;
+}
+
+/* ===== TABLES ===== */
+.table-striped > tbody > tr:nth-of-type(odd) {
+  background-color: #F5F5F5;
+}
+
+.table-hover > tbody > tr:hover {
+  background-color: #F5F5F5;
+}
+
+/* ===== TESTIMONIALS CUSTOM STYLING ===== */
+/* Quotation mark icon in testimonial boxes */
+.testimonial .icon {
+  color: #193B44 !important;
+}
+
+.testimonial .icon i {
+  color: #193B44 !important;
+}
+
+/* Underline under "What our clients say" heading */
+.heading h2:after,
+.bar h2:after {
+  background: #AF8B5A !important;
+  border-color: #AF8B5A !important;
+}
+
+/* Owl carousel pagination dots for testimonials */
+.testimonials.owl-carousel .owl-controls .owl-page span {
+  background: transparent !important;
+  border: 2px solid #193B44 !important;
+}
+
+.testimonials.owl-carousel .owl-controls .owl-page.active span {
+  background: #193B44 !important;
+  border-color: #193B44 !important;
+}
+
+/* Home carousel pagination dots - white for visibility */
+.home-carousel .owl-controls .owl-page span,
+.home-carousel .owl-theme .owl-controls .owl-page span {
+  background: rgba(255, 255, 255, 0.3) !important;
+  border: 2px solid #ffffff !important;
+}
+
+.home-carousel .owl-controls .owl-page.active span,
+.home-carousel .owl-theme .owl-controls .owl-page.active span,
+.home-carousel .owl-controls .owl-page:hover span {
+  background: #ffffff !important;
+  border-color: #ffffff !important;
+}
+
+/* ===== RESPONSIVE ADJUSTMENTS ===== */
+@media (max-width: 768px) {
+  .longtestimonials .item {
+    margin: 5px 15px 30px 15px;
+  }
+}
+
+/* ===== TOP BAR TEXT STYLING ===== */
+#top .container {
+  text-align: center;
+  position: relative;
+}
+
+/* Force the text to be large */
+#top .col-xs-5 {
+  text-align: center !important;
+  width: 100% !important;
+  font-size: 28px !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.5px !important;
+  color: #fff !important;
+  line-height: 40px !important;
+}
+
+#top .col-xs-7 {
+  position: absolute;
+  right: 15px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: auto !important;
+}
+
+/* Style social icons properly */
+#top .social {
+  font-size: 18px !important;
+  font-weight: normal !important;
+  letter-spacing: normal !important;
+  line-height: 20px !important;
+}
+
+#top .social a {
+  font-size: 18px !important;
+  font-weight: normal !important;
+  color: #fff !important;
+  margin: 0 4px !important;
+  display: inline-block;
+  width: auto !important;
+  height: auto !important;
+  border-radius: 0 !important;
+  border: none !important;
+  background: transparent !important;
+  line-height: normal !important;
+}
+
+#top .social a:hover {
+  background: transparent !important;
+  color: #AF8B5A !important;
+}
+
+#top .social a i {
+  font-size: 18px !important;
+}
+
+@media (max-width: 767px) {
+  #top .col-xs-5 {
+    font-size: 22px !important;
+    line-height: 30px !important;
+  }
+
+  #top .col-xs-7 {
+    position: static;
+    transform: none;
+    text-align: center;
+    margin-top: 5px;
+    width: 100% !important;
+  }
+}

@@ -1,0 +1,9 @@
+weight: 2
+title: "Personalized Care That Fits Your Needs"
+description: >
+  <ul class="list-style-none">
+    <li><h3>Insurance Accepted • Medicare Provider • Flexible Payment Options</h3></li>
+    <li>Expert one-on-one care designed to get you back to what you love</li>
+    <li><a href="/insurance-payment/" class="btn btn-template-main">Learn About Payment Options</a></li>
+  </ul>
+image: "img/carousel/slide02.png"

@@ -1,0 +1,12 @@
+*~
+.*~
+.*.swp
+*.pyc
+.DS_Store
+*.lock
+dev_publish
+public
+themes/
+.claude/
+.claude-flow/
+.hive-mind/
