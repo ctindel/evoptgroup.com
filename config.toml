@@ -1,0 +1,318 @@
+baseurl = "https://evoptgroup.com"
+title = "Evo PT Group"
+theme = "hugo-universal-theme"
+themesDir = "./themes"
+languageCode = "en-us"
+# Site language. Available translations in the theme's `/i18n` directory.
+defaultContentLanguage = "en"
+# Enable comments by entering your Disqus shortname
+#disqusShortname = "evopt"
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = "G-S562S2WYL1"
+publishDir = "public"
+
+# Define the number of posts per page
+pagerSize = 10
+
+[menu]
+
+# Main menu
+
+[[menu.main]]
+    identifier="menu.home"
+    name = "Home"
+    url  = "/"
+    weight = 1
+
+[[menu.main]]
+    identifier="menu.about"
+    name = "About"
+    weight = 5
+
+[[menu.main]]
+    name       = "Meet Dr. Preston Arnold"
+    url        = "/about/dr-preston-arnold/"
+    weight     = 1
+    parent     = "menu.about"
+
+[[menu.main]]
+    name       = "Our Philosophy"
+    url        = "/about/philosophy/"
+    weight     = 2
+    parent     = "menu.about"
+
+[[menu.main]]
+    name       = "Why Choose Evo PT"
+    url        = "/about/why-choose-us/"
+    weight     = 3
+    parent     = "menu.about"
+
+[[menu.main]]
+    name       = "Contact Us"
+    url        = "/contact/"
+    weight     = 4
+    parent     = "menu.about"
+
+[[menu.main]]
+    identifier="menu.services"
+    name = "Services"
+    weight = 2
+
+[[menu.main]]
+    name       = "Physical Therapy"
+    url        = "/services/physical-therapy/"
+    weight     = 1
+    parent     = "menu.services"
+
+[[menu.main]]
+    name       = "Sports Performance"
+    url        = "/services/sports-performance/"
+    weight     = 2
+    parent     = "menu.services"
+
+[[menu.main]]
+    name       = "Recovery & Wellness"
+    url        = "/services/recovery-wellness/"
+    weight     = 3
+    parent     = "menu.services"
+
+[[menu.main]]
+    name       = "Pelvic Floor Therapy"
+    url        = "/services/pelvic-floor-therapy/"
+    weight     = 4
+    parent     = "menu.services"
+
+[[menu.main]]
+    name       = "Post-Surgery Rehab"
+    url        = "/services/post-surgery-rehab/"
+    weight     = 5
+    parent     = "menu.services"
+
+[[menu.main]]
+    name       = "Chronic Pain Management"
+    url        = "/services/chronic-pain-management/"
+    weight     = 6
+    parent     = "menu.services"
+
+[[menu.main]]
+    identifier="menu.athletes"
+    name = "For Athletes"
+    weight = 3
+
+[[menu.main]]
+    name       = "Baseball Performance"
+    url        = "/athletes/baseball-performance/"
+    weight     = 1
+    parent     = "menu.athletes"
+
+[[menu.main]]
+    name       = "Hybrid Athletes"
+    url        = "/athletes/hybrid-athletes/"
+    weight     = 2
+    parent     = "menu.athletes"
+
+[[menu.main]]
+    name       = "Return to Sport"
+    url        = "/athletes/return-to-sport/"
+    weight     = 3
+    parent     = "menu.athletes"
+
+[[menu.main]]
+    identifier="menu.resources"
+    name = "Resources"
+    weight = 4
+
+[[menu.main]]
+    name       = "Blog"
+    url        = "/blog/"
+    weight     = 1
+    parent     = "menu.resources"
+
+[[menu.main]]
+    name       = "FAQ"
+    url        = "/faq/"
+    weight     = 2
+    parent     = "menu.resources"
+
+[[menu.main]]
+    name       = "Insurance & Payment"
+    url        = "/insurance-payment/"
+    weight     = 3
+    parent     = "menu.resources"
+
+[[menu.main]]
+    identifier = "menu.book"
+    name = "Book Appointment"
+    url  = "https://scheduling.go.promptemr.com/onlineScheduling?w=2408&s=DL"
+    weight = 6
+
+# Top bar social links menu
+
+[[menu.topbar]]
+    weight = 1
+    name = "Facebook"
+    url = "https://www.facebook.com/evogymsUS"
+    pre = "<i class='fab fa-2x fa-facebook'></i>"
+
+[[menu.topbar]]
+    weight = 2
+    name = "Instagram"
+    url = "https://www.instagram.com/evo.gyms"
+    pre = "<i class='fab fa-2x fa-instagram'></i>"
+
+[[menu.topbar]]
+    weight = 3
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/company/83044068/"
+    pre = "<i class='fab fa-2x fa-linkedin'></i>"
+
+[[menu.topbar]]
+    weight = 4
+    name = "Youtube"
+    url = "https://youtube.com/@EvoGyms"
+    pre = "<i class='fab fa-2x fa-youtube'></i>"
+
+[[menu.topbar]]
+    weight = 5
+    name = "Email"
+    url = "mailto:info@evoptgroup.com"
+    pre = "<i class='fas fa-2x fa-envelope'></i>"
+
+[[menu.topbar]]
+    weight = 6
+    name = "Phone"
+    url = "tel:+14698253900"
+    pre = "<i class='fas fa-2x fa-phone'></i>"
+
+[params]
+    viewMorePostLink = "/blog/"
+    author = "Dr. Preston Arnold"
+    defaultKeywords = ["physical therapy", "sports performance", "cash pay PT", "North Texas", "injury recovery", "baseball performance"]
+    mainSections = ["blog"]
+    defaultDescription = "Evo PT Group - Evolution Through Movement. One-on-one physical therapy and performance training in North Texas."
+
+    # Social media
+    facebook_site = "https://www.facebook.com/evogymsUS" 
+    instagram_site = "evo.gyms" 
+    default_sharing_image = "img/sharing-default.png"
+
+    # Google Maps API key (if not set will default to not passing a key.)
+    #googleMapsApiKey = ""
+
+    # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
+    style = "default"
+
+    # Since this template is static, the contact form uses www.formspree.io as a
+    # proxy. The form makes a POST request to their servers to send the actual
+    # email. Visitors can send up to a 1000 emails each month for free.
+    #
+    # What you need to do for the setup?
+    #
+    # - set your email address under 'email' below
+    # - upload the generated site to your server
+    # - send a dummy email yourself to confirm your account
+    # - click the confirm link in the email from www.formspree.io
+    # - you're done. Happy mailing!
+    #
+    # Enable the contact form by entering your Formspree.io email
+    email = "info@evoptgroup.com"
+    contact_form_ajax = false
+
+    about_us = "<p>At Evo PT Group, we believe your recovery and performance journey should evolve with you. Led by Dr. Preston Arnold, we're redefining physical therapy in North Texas by combining evidence-based rehabilitation with performance training.</p><p>We accept most major insurance plans, Medicare, and offer flexible payment options. Whether you're a competitive athlete returning from injury, an active adult seeking pain relief, or someone who simply refuses to let pain slow you down, we're here to help you evolve beyond your limitations.</p>"
+    copyright = "Copyright (c) 2025, Evo PT Group; all rights reserved."
+
+    # Format dates with Go's time formatting
+    date_format = "January 2, 2006"
+
+    logo = "img/logo.png"
+    logo_small = "img/logo-small.png"
+    address = """<p class="text-uppercase"><strong>Evo PT Group</strong>
+        <br><a href="https://maps.google.com/?q=6505+W+Park+Blvd+Suite+200+Plano+TX+75093" target="_blank" style="color: inherit; text-decoration: underline;">
+        6505 W. Park Blvd. Suite 200<br>
+        Plano, TX 75093
+        </a>
+        <br>
+        <br>Serving: Plano, Melissa, McKinney, Anna, Frisco
+        <br>
+        <br><strong>Contact Us:</strong>
+        <br>Phone: (469) 825-3900
+        <br>Email: info@evoptgroup.com
+        <br>
+        <br><strong>Hours:</strong>
+        <br>Monday - Friday: 7:00 AM - 7:00 PM
+        <br>Saturday: 8:00 AM - 12:00 PM
+      </p>
+      """
+    #latitude = "-12.043333"
+    #longitude = "-77.028333"
+
+[Permalinks]
+    blog = "/blog/:year/:month/:day/:contentbasename/"
+
+# Enable or disable top bar with social icons
+[params.topbar]
+    enable = true
+    text = "Plano's Premiere Physical Therapy Clinic"
+
+# Enable and disable widgets for the right sidebar
+[params.widgets]
+    categories = false
+    tags = false
+    search = false
+
+[params.carouselHomepage]
+    # All carousel items are defined in their own files. You can find example items
+    # at 'exampleSite/data/carousel'.
+    # For more informtion take a look at the README.
+    enable = true
+    auto_play = true
+    slide_speed = 2000
+    pagination_speed = 1000
+
+#[params.carousel]
+#    enable = true
+    # All carousel items are defined in their own files. You can find example items
+    # at 'exampleSite/data/carousel'.
+    # For more informtion take a look at the README.
+
+[params.features]
+    enable = true
+    cols = 3
+    # All features are defined in their own files. You can find example items
+    # at 'exampleSite/data/features'.
+    # For more informtion take a look at the README.
+
+[params.carouselTestimonials]
+    items = 4
+    auto_play = true
+    slide_speed = 2000
+    pagination_speed = 1000
+
+[params.testimonials]
+    enable = true
+    # All testimonials are defined in their own files. You can find example items
+    # at 'exampleSite/data/testimonials'.
+    # For more informtion take a look at the README.
+    title = "What Our Clients Say"
+    subtitle = "Real stories from athletes and active adults who've evolved beyond their limitations with our help."
+
+[params.see_more]
+    enable = false
+    icon = "far fa-file-alt"
+    title = "Do you want to see more?"
+    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
+    link_url = "#"
+    link_text = "Check other homepages"
+
+[params.clients]
+    enable = false
+    # All clients are defined in their own files. You can find example items
+    # at 'exampleSite/data/clients'.
+    # For more informtion take a look at the README.
+    title = "Our Clients"
+    subtitle = ""
+
+[params.recent_posts]
+    enable = true
+    title = "From our blog"
+    subtitle = "Expert insights on recovery, performance, and moving without limits"
