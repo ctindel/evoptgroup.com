@@ -11,96 +11,37 @@ At Evo PT Group, physical therapy isn't just about treating symptoms—it's abou
 
 ## What We Treat
 
-### Orthopedic Conditions
-- Back and neck pain
-- Shoulder injuries (rotator cuff, impingement, instability)
-- Hip pain and dysfunction
-- Knee injuries (ACL, meniscus, patellofemoral pain)
-- Ankle sprains and chronic instability
-- Elbow pain (tennis elbow, golfer's elbow)
+Our expertise spans the full spectrum of musculoskeletal conditions, from acute injuries to chronic pain. We regularly treat orthopedic conditions affecting every major joint and body region. Whether you're dealing with back and neck pain, shoulder injuries like rotator cuff tears or impingement syndrome, or lower extremity issues involving the hips, knees, and ankles, we have the expertise to help. Our approach addresses not just the symptoms, but the underlying movement patterns and biomechanical factors contributing to your pain.
 
-### Post-Surgical Rehabilitation
-- ACL reconstruction
-- Meniscus repair
-- Rotator cuff repair
-- Total joint replacements (knee, hip, shoulder)
-- Spinal surgery recovery
-- Fracture rehabilitation
+Post-surgical rehabilitation forms a significant part of our practice, where we work closely with your surgical team to optimize your recovery. From ACL reconstructions and meniscus repairs to rotator cuff surgeries and total joint replacements, we understand the delicate balance between protecting healing tissues and progressively restoring function. Our protocols also encompass spinal surgery recovery and fracture rehabilitation, ensuring you return to your activities safely and confidently.
 
-### Sports Injuries
-- Muscle strains and tears
-- Tendinitis and tendinopathy
-- Overuse injuries
-- Return-to-sport preparation
-- Sport-specific rehabilitation
+Athletes at every level trust us with their sports injuries and performance goals. We excel at treating muscle strains, tendinitis, and the various overuse injuries that can sideline your training. Beyond just treating the injury, we focus on comprehensive return-to-sport preparation with sport-specific rehabilitation that addresses the unique demands of your activity.
 
-### Chronic Pain Conditions
-- Persistent back pain
-- Chronic neck pain and headaches
-- Fibromyalgia support
-- Movement dysfunction
-- Pain with unknown origin
+For those living with chronic pain conditions, we offer hope and practical solutions. Persistent back pain, chronic neck pain and headaches, fibromyalgia, and complex movement dysfunctions require a different approach than acute injuries. We specialize in helping people with pain of unknown origin, using advanced assessment techniques to identify contributing factors others may have missed.
 
 ## Our Treatment Approach
 
-### Comprehensive Evaluation
-- Detailed movement analysis
-- Orthopedic special testing
-- Strength and flexibility assessment
-- Functional movement screening
-- Pain pattern identification
+Every successful treatment begins with understanding the full picture of your condition. Our comprehensive evaluation goes far beyond asking where it hurts. We conduct detailed movement analysis to see how your body moves as an integrated system, utilize orthopedic special tests to pinpoint specific tissue involvement, and assess strength and flexibility patterns that may be contributing to your symptoms. Through functional movement screening and careful pain pattern identification, we develop a clear picture of not just what's wrong, but why it happened in the first place.
 
-### Manual Therapy
-- Joint mobilization
-- Soft tissue mobilization
-- Trigger point release
-- Muscle energy techniques
-- Instrument-assisted techniques (IASTM)
+Manual therapy forms a cornerstone of our treatment approach, but it's far more sophisticated than simple massage. Our hands-on techniques include precise joint mobilizations to restore normal arthrokinematics, soft tissue mobilization to address fascial restrictions, and trigger point release for those stubborn knots that refer pain elsewhere. We incorporate muscle energy techniques that use your own muscle contractions to improve mobility and utilize instrument-assisted soft tissue mobilization (IASTM) when appropriate to break up scar tissue and stimulate healing.
 
-### Therapeutic Exercise
-- Customized strengthening programs
-- Neuromuscular re-education
-- Balance and proprioception training
-- Core stabilization
-- Sport-specific movements
+Therapeutic exercise is where lasting change happens. Rather than generic exercises, we design customized strengthening programs based on your specific deficits and goals. This includes neuromuscular re-education to retrain proper movement patterns, balance and proprioception training to prevent future injuries, comprehensive core stabilization work that goes beyond simple planks, and sport-specific movements that prepare you for the demands of your activities.
 
-### Modalities & Recovery Tools
-- Cupping therapy
-- Kinesiology taping
-- Mobility and flexibility training
-- Pain science education
-- Home exercise programming
+We enhance your recovery with evidence-based modalities and tools that complement our hands-on treatment. Cupping therapy helps increase blood flow and reduce muscle tension, while kinesiology taping provides support without restricting movement. We emphasize mobility and flexibility training you can do independently, provide pain science education so you understand your condition, and develop comprehensive home exercise programs that fit into your life.
 
 ## The Evo PT Difference
 
-### Your Time Is Valued
-- 60-minute one-on-one sessions
-- No waiting rooms or wasted time
-- Flexible scheduling including evenings
+At Evo PT Group, we believe your time is too valuable to waste in waiting rooms or working with assistants. That's why every session is a full 60 minutes of one-on-one care with your Doctor of Physical Therapy. No divided attention, no rushing between multiple patients, just focused care dedicated entirely to your recovery. We offer flexible scheduling including evening appointments because we understand that life doesn't stop for physical therapy.
 
-### Your Goals Drive Treatment
-- Customized plans for your specific needs
-- Regular progress assessments
-- Clear timelines and expectations
+Your treatment should reflect your unique goals and lifestyle, not follow a cookie-cutter protocol. We create customized plans tailored to your specific needs, whether you're aiming to return to competitive sports, play with your grandchildren, or simply live without pain. Through regular progress assessments, we ensure you're always moving toward your goals with clear timelines and realistic expectations that keep you motivated and informed.
 
-### Your Success Is Our Focus
-- Direct access to your therapist
-- Ongoing support between sessions
-- Smooth transition to performance training
+Your success extends beyond our clinic walls. You have direct access to your therapist for questions between sessions, because we know that recovery doesn't follow a convenient schedule. We provide ongoing support when you need it most and ensure a smooth transition from rehabilitation to performance training when you're ready to take your recovery to the next level.
 
 ## What to Expect
 
-### Session 1: Comprehensive Evaluation (75-90 minutes)
-- Full assessment and diagnosis
-- Initial treatment and pain relief
-- Clear plan of care established
-- Home program provided
+Your journey begins with a comprehensive evaluation lasting 75-90 minutes. This isn't just paperwork and measurements – it's an in-depth assessment where we truly get to understand your condition, your goals, and what brought you to our door. During this initial session, we'll conduct a full assessment to diagnose your condition accurately, provide initial treatment to begin addressing your pain, establish a clear plan of care so you know exactly what to expect, and equip you with a home program to start your recovery immediately.
 
-### Follow-Up Sessions: Progressive Treatment (60 minutes)
-- Hands-on manual therapy
-- Guided therapeutic exercise
-- Progress monitoring
-- Plan modifications as needed
+Follow-up sessions are where the real work happens. Each 60-minute session combines hands-on manual therapy to address tissue restrictions and joint dysfunction with guided therapeutic exercise to rebuild strength and restore proper movement patterns. We continuously monitor your progress, not just to document improvement, but to ensure we're always providing the most effective treatment for your current state. Your plan evolves as you do, with modifications made as needed to keep you progressing toward your goals.
 
 ## Ready to Start Healing?
 

@@ -630,3 +630,18 @@ blockquote {
     width: 100% !important;
   }
 }
+
+
+/* ===== MOBILE HAMBURGER MENU FIX ===== */
+.navbar-toggle .icon-bar {
+  background-color: #193B44 !important;
+}
+
+.navbar-toggle {
+  border-color: #193B44 !important;
+}
+
+.navbar-toggle:hover,
+.navbar-toggle:focus {
+  background-color: rgba(25, 59, 68, 0.1) !important;
+}
