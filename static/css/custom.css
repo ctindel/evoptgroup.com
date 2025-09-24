@@ -633,15 +633,29 @@ blockquote {
 
 
 /* ===== MOBILE HAMBURGER MENU FIX ===== */
-.navbar-toggle .icon-bar {
-  background-color: #193B44 !important;
+/* Fix for Font Awesome hamburger icon */
+.navbar-toggle i,
+.navbar-toggle .fa-align-justify,
+.navbar-toggle .fas {
+  color: #193B44 !important;
 }
 
-.navbar-toggle {
+button.navbar-toggle i {
+  color: #193B44 !important;
+}
+
+.navbar-toggle.btn-template-main {
+  background-color: transparent !important;
   border-color: #193B44 !important;
+  color: #193B44 !important;
 }
 
-.navbar-toggle:hover,
-.navbar-toggle:focus {
+.navbar-toggle.btn-template-main:hover,
+.navbar-toggle.btn-template-main:focus {
   background-color: rgba(25, 59, 68, 0.1) !important;
+  color: #193B44 !important;
+}
+
+.navbar-toggle.btn-template-main i {
+  color: #193B44 !important;
 }
