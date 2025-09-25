@@ -283,7 +283,7 @@ pagerSize = 10
     pagination_speed = 1000
 
 [params.testimonials]
-    enable = true
+    enable = false
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
