@@ -19,14 +19,10 @@ Today, as a Doctor of Physical Therapy and certified strength coach, Preston bri
 
 ## Education & Credentials
 
-- **Doctor of Physical Therapy (DPT)**
-- Board Certified Orthopedic Clinical Specialist
-- Certified Strength and Conditioning Specialist (CSCS)
-- Specialized training in sports rehabilitation
-- Advanced certifications in manual therapy
-- Performance enhancement specialist
-- Dry Needling Certification
-- Blood Flow Restriction Training Certified
+- **Doctor of Physical Therapy** - Baylor University
+- **Bachelor of Science in Kinesiology** - University of Texas at Tyler
+- **Champion Performance Specialist**
+- **Certified Baseball Rehabilitation Specialist**
 
 ## The Person Behind the Practice
 
