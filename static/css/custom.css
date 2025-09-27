@@ -567,7 +567,8 @@ blockquote {
 }
 
 /* Force the text to be large */
-#top .col-xs-5 {
+#top .col-xs-12.col-sm-5,
+#top .col-sm-5 {
   text-align: center !important;
   width: 100% !important;
   font-size: 28px !important;
@@ -577,7 +578,7 @@ blockquote {
   line-height: 40px !important;
 }
 
-#top .col-xs-7 {
+#top .col-sm-7 {
   position: absolute;
   right: 15px;
   top: 50%;
@@ -617,10 +618,15 @@ blockquote {
 }
 
 @media (max-width: 767px) {
-  #top .col-xs-5 {
+  #top .col-xs-12 {
     font-size: 22px !important;
     line-height: 30px !important;
+    text-align: center !important;
     width: 100% !important;
+  }
+
+  #top .col-xs-7 {
+    display: none !important;
   }
 }
 
