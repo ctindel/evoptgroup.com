@@ -566,15 +566,27 @@ blockquote {
   position: relative;
 }
 
-/* Force the text to be large */
+/* Force the text to be large - but respect responsive classes */
 #top .col-xs-5 {
   text-align: center !important;
   width: 100% !important;
+  color: #fff !important;
+}
+
+#top .col-xs-5 span:not(.visible-xs):not(.visible-sm) {
   font-size: 28px !important;
   font-weight: 700 !important;
   letter-spacing: 0.5px !important;
-  color: #fff !important;
   line-height: 40px !important;
+}
+
+/* Mobile version of topbar text */
+@media (max-width: 767px) {
+  #top .col-xs-5 span {
+    font-size: 22px !important;
+    font-weight: 700 !important;
+    line-height: 30px !important;
+  }
 }
 
 #top .col-xs-7 {
@@ -617,11 +629,6 @@ blockquote {
 }
 
 @media (max-width: 767px) {
-  #top .col-xs-5 {
-    font-size: 22px !important;
-    line-height: 30px !important;
-  }
-
   #top .col-xs-7 {
     position: static;
     transform: none;
@@ -631,6 +638,31 @@ blockquote {
   }
 }
 
+
+/* ===== MOBILE BOOK NOW BUTTON ===== */
+@media (max-width: 767px) {
+  .mobile-book-btn {
+    display: inline-block !important;
+    margin-right: 10px !important;
+    padding: 8px 12px !important;
+    font-size: 12px !important;
+    background-color: #193B44 !important;
+    border-color: #193B44 !important;
+    color: #fff !important;
+  }
+
+  .mobile-book-btn:hover {
+    background-color: #2B4E53 !important;
+    border-color: #2B4E53 !important;
+  }
+}
+
+/* Hide mobile book button on larger screens */
+@media (min-width: 768px) {
+  .mobile-book-btn {
+    display: none !important;
+  }
+}
 
 /* ===== MOBILE HAMBURGER MENU FIX ===== */
 /* Fix for Font Awesome hamburger icon */
