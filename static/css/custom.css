@@ -567,7 +567,7 @@ blockquote {
 }
 
 /* Force the text to be large */
-#top .col-xs-12.col-sm-5,
+#top .col-xs-12,
 #top .col-sm-5 {
   text-align: center !important;
   width: 100% !important;
@@ -618,15 +618,12 @@ blockquote {
 }
 
 @media (max-width: 767px) {
-  #top .col-xs-12 {
+  #top .col-xs-12,
+  #top .col-xs-12.col-sm-5 {
     font-size: 22px !important;
     line-height: 30px !important;
     text-align: center !important;
     width: 100% !important;
-  }
-
-  #top .col-xs-7 {
-    display: none !important;
   }
 }
 
