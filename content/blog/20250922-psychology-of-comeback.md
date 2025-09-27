@@ -4,7 +4,6 @@ date = "2025-09-22T00:00:00-00:00"
 tags = ["sports psychology", "return to sport", "injury recovery", "mental health", "athletic performance"]
 categories = ["Sports Psychology"]
 banner = "img/banners/2025/blog-20250922.png"
-author = "Dr. Preston Arnold"
 +++
 
 Your MRI is clear. Your strength tests are passed. Your doctor has given you the green light. Yet standing at the free-throw line, approaching the first tee, or stepping into the batter's box, something feels different. That confidence you once had seems just out of reach. If this sounds familiar, you're not alone—and more importantly, you're not weak.

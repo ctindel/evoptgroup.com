@@ -4,7 +4,6 @@ date = "2025-11-03T00:00:00-00:00"
 tags = ["postpartum", "core recovery", "diastasis recti", "pelvic floor", "women's health"]
 categories = ["Women's Health"]
 banner = "img/banners/2025/blog-20251103.png"
-author = "Dr. Preston Arnold"
 +++
 
 Six weeks postpartum, your doctor clears you for exercise. "Everything looks great," they say. "You can return to normal activities." But nothing feels normal. Your core feels like jello, your back hurts, you're leaking when you sneeze, and that "mommy pooch" won't budge despite doing hundreds of crunches.
@@ -151,13 +150,6 @@ It's completely normal to feel frustration with slow progress, like your body do
 ### Healthy Mindset:
 Remember that your body accomplished the incredible feat of creating life, recovery realistically takes 12-18 months for complete healing, progress isn't linear and will have ups and downs, every body is different with unique needs, and prioritize function over appearance in your recovery goals.
 
-## Real Mom Recovery Stories
-
-**Sarah, 3 months postpartum:** "Stopping crunches and focusing on breathing changed everything. No more back pain!"
-
-**Maria, 6 months postpartum:** "Pelvic floor PT saved me. I thought leaking was just part of being a mom."
-
-**Jessica, 1 year postpartum:** "Slow and steady worked. I'm stronger now than before pregnancy."
 
 ## Your Postpartum Recovery Timeline
 

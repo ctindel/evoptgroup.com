@@ -4,7 +4,6 @@ date = "2025-08-11T00:00:00-00:00"
 tags = ["knee pain", "injury prevention", "arthritis", "joint health", "biomechanics"]
 categories = ["Education"]
 banner = "img/banners/2025/blog-20250811.png"
-author = "Dr. Preston Arnold"
 +++
 
 "Bad knees run in my family."
@@ -100,13 +99,6 @@ Truth: Most knee pain is reversible with proper intervention
 **Myth: "Knee pain means you need to stop being active"**
 Truth: Movement is medicine—you just need the right movement
 
-## Real Patient Stories
-
-**Tom, 45:** "My dad had both knees replaced at 60. I assumed I was headed the same way when my knees started hurting at 45. Turns out I had the same duck-footed walk he did. Six weeks of gait retraining and hip strengthening, and I'm pain-free. My dad's watching me and wishing he'd known this 20 years ago."
-
-**Lisa, 52:** "Three generations of 'bad knees' in my family. After working with PT, I realized we all sat with our legs crossed the same way, creating the same hip tightness and knee stress. I'm the first woman in my family to run a 5K after 50."
-
-**Marcus, 38:** "Told I had early arthritis and to 'take it easy.' Instead, I learned to squat properly, strengthened my hips, and fixed my ankle mobility. Two years later, I'm deadlifting 315 and my knees feel better than they did at 25."
 
 ## Your Knee Recovery Blueprint
 

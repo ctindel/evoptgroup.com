@@ -4,7 +4,6 @@ date = "2025-09-08T00:00:00-00:00"
 tags = ["insurance", "Medicare", "payment options", "healthcare access"]
 categories = ["Education"]
 banner = "img/banners/2025/blog-20250908.png"
-author = "Dr. Preston Arnold"
 +++
 
 When it comes to physical therapy, understanding your payment options can make the difference between getting the care you need and delaying treatment. At Evo PT Group, we believe everyone deserves access to quality care, which is why we accept most insurance plans, Medicare, and offer flexible payment options. Let me walk you through how to maximize your benefits and get the most value from your physical therapy care.

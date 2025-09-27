@@ -4,7 +4,6 @@ date = "2025-11-24T00:00:00-00:00"
 tags = ["TMJ", "jaw pain", "headaches", "posture", "stress management"]
 categories = ["Pain Management"]
 banner = "img/banners/2025/blog-20251124.png"
-author = "Dr. Preston Arnold"
 +++
 
 You wake up with a headache. Again. Your jaw clicks when you yawn. Your neck is constantly tight. You've tried new pillows, massage, even Botox for the headaches. Nothing works. What if I told you the problem might be a joint the size of a marble that you use 2,000 times a day?
@@ -207,13 +206,6 @@ Gradually increase exercise intensity and complexity as pain reduces and functio
 ### Month 3: Maintenance
 Establish a sustainable daily routine that maintains the gains achieved during the initial treatment phases. Shift focus from treatment to prevention by identifying and avoiding activities or stressors that trigger symptoms. Solidify long-term habits that support ongoing jaw health including stress management and proper ergonomics. Schedule periodic check-ins with healthcare providers to monitor progress and adjust strategies as needed.
 
-## Real TMJ Success Stories
-
-**Jennifer, 35:** "Finding the connection between my jaw and migraines changed my life. 6 weeks of PT eliminated 10 years of headaches."
-
-**Mark, 42:** "I had no idea my neck pain came from my jaw. Fixing my breathing and posture solved everything."
-
-**Lisa, 28:** "Learning to manage stress and stop clenching gave me my life back. No more daily pain."
 
 ## The Bottom Line
 

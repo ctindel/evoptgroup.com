@@ -4,7 +4,6 @@ date = "2025-12-29T00:00:00-00:00"
 tags = ["frozen shoulder", "adhesive capsulitis", "shoulder pain", "rehabilitation", "range of motion"]
 categories = ["Rehabilitation"]
 banner = "img/banners/2025/blog-20251229.png"
-author = "Dr. Preston Arnold"
 +++
 
 You wake up one morning and can't lift your arm to wash your hair. Putting on a shirt becomes a two-person job. Reaching for your seatbelt triggers lightning pain. Your doctor says "frozen shoulder" and suggests waiting it out—maybe 2-3 years. Three YEARS?
@@ -206,13 +205,6 @@ Hydrodilatation involves injecting saline solution into the joint capsule to mec
 ### Worth Trying:
 Massage therapy can address secondary muscle tension and improve circulation, though it won't directly affect the capsular restriction. Cupping therapy may help with circulation and muscle tension relief, though evidence is limited for frozen shoulder specifically. TENS units provide pain relief through electrical stimulation that can make stretching and exercise more tolerable. Infrared therapy delivers deep heat that may improve tissue extensibility before stretching. Cryotherapy after exercise may help control inflammation, though use carefully as excessive cold can increase stiffness.
 
-## Real Frozen Shoulder Success Stories
-
-**Linda, 52:** "Frozen 18 months when I started protocol. Full motion in 10 weeks. Doctor couldn't believe it."
-
-**Robert, 48:** "Bilateral frozen shoulders. Right side 3 years traditional approach. Left side 3 months with proper protocol."
-
-**Susan, 55:** "Was told surgery only option. 12 weeks of focused work = 95% motion restored."
 
 ## Your Recovery Timeline
 

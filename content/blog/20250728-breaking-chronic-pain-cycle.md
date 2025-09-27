@@ -4,7 +4,6 @@ date = "2025-07-28T00:00:00-00:00"
 tags = ["chronic pain", "pain science", "movement therapy", "recovery", "pain management"]
 categories = ["Pain Management"]
 banner = "img/banners/2025/blog-20250728.png"
-author = "Dr. Preston Arnold"
 +++
 
 "I've tried everything. Rest, ice, heat, massage, medications. Nothing works. I guess I just have to live with it."
@@ -101,16 +100,6 @@ Your body is adaptive and resilient, not fragile and broken.
 ### From "Why Me?" to "What Now?"
 Focus on what you can control: your response, your movement, your mindset.
 
-## Real Recovery Stories
-
-**Maria, 45, chronic back pain for 3 years:**
-"I was afraid to bend over. Avoided everything. PT showed me that movement wouldn't damage me. Started with 5-minute walks. Six months later, I'm hiking again. The pain isn't completely gone, but it doesn't control me anymore."
-
-**David, 52, shoulder pain after surgery:**
-"Babied it for a year. Got weaker and more painful. Finally started moving it despite the pain. Three months of progressive exercise, and I'm playing golf again. Wish I'd started sooner."
-
-**Karen, 38, fibromyalgia:**
-"Was told to rest. Got worse. Started water aerobics, then walking, now strength training. Still have bad days, but they're fewer. Movement saved my life."
 
 ## When Movement Isn't Enough
 

@@ -4,7 +4,6 @@ date = "2026-01-05T00:00:00-00:00"
 tags = ["home gym", "fitness equipment", "home workouts", "strength training", "budget fitness"]
 categories = ["Fitness Equipment"]
 banner = "img/banners/2026/blog-20260105.png"
-author = "Dr. Preston Arnold"
 +++
 
 The average gym membership costs $600/year. Add gas, time commuting, waiting for equipment, and dealing with January crowds, and you're losing $2,000+ and 200 hours annually. Meanwhile, that spare bedroom, garage corner, or basement space sits empty.
@@ -445,13 +444,6 @@ Cost: $20
 - Health improvement: Priceless
 - **Financial freedom: Achieved**
 
-## Real Home Gym Heroes
-
-**Tom, Dad of 3:** "Haven't missed a workout in 2 years. Kids join me. Family fitness time."
-
-**Sarah, Nurse:** "Night shifts killed gym routine. Home gym = consistent training finally."
-
-**Mike, Executive:** "5 AM workouts in garage. In office by 6:30. Game changer."
 
 ## Your 30-Day Home Gym Challenge
 

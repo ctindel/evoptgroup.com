@@ -4,7 +4,6 @@ date = "2025-09-15T00:00:00-00:00"
 tags = ["baseball", "youth sports", "arm care", "injury prevention", "pitching"]
 categories = ["Youth Athletics"]
 banner = "img/banners/2025/blog-20250915.png"
-author = "Dr. Preston Arnold"
 +++
 
 As a former collegiate baseball player turned physical therapist, I've seen the game from both sides. I've felt the thrill of striking out the side, and I've experienced the despair of arm pain that threatens to end it all. Now, as a Doctor of Physical Therapy, I spend my days helping young athletes avoid the mistakes that derailed so many careers—including almost my own.

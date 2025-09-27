@@ -4,7 +4,6 @@ date = "2025-11-10T00:00:00-00:00"
 tags = ["youth sports", "injury prevention", "young athletes", "sports specialization", "growth and development"]
 categories = ["Youth Athletics"]
 banner = "img/banners/2025/blog-20251110.png"
-author = "Dr. Preston Arnold"
 +++
 
 Your 12-year-old plays soccer year-round, has private coaching twice a week, and tournaments every weekend. You're investing in their future, right? Wrong. They're 70% more likely to suffer an overuse injury, 50% more likely to burn out, and ironically, less likely to play sports in college than multi-sport athletes.
@@ -216,13 +215,6 @@ Any visible deformity suggests fracture or dislocation that requires emergency m
 
 Skipping phases doesn't accelerate development—it derails it.
 
-## Real Stories from Youth Athletes
-
-**Tommy, 14:** "Taking 3 months off baseball to play basketball saved my shoulder and made me a better athlete."
-
-**Sarah, 16:** "The injury prevention program eliminated my knee pain. I'm faster and stronger than ever."
-
-**Mike, Parent:** "Letting him play multiple sports was hard, but he's healthier and happier than his specialized peers."
 
 ## Your Youth Athlete Action Plan
 

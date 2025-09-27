@@ -4,7 +4,6 @@ date = "2025-08-04T00:00:00-00:00"
 tags = ["parent fitness", "time management", "pain relief", "family health", "quick workouts"]
 categories = ["Family Wellness"]
 banner = "img/banners/2025/blog-20250804.png"
-author = "Dr. Preston Arnold"
 +++
 
 It's 6 AM. The baby's crying. Your 8-year-old needs breakfast. Your teenager can't find their jersey. And your lower back is already reminding you about yesterday's attempt to be "Super Parent" at the playground.
@@ -92,14 +91,6 @@ Make fitness accessible by using everyday household items as exercise equipment.
 Ten minutes of daily movement creates remarkable changes that compound over time. Within the first week, you'll notice less morning stiffness as your body adapts to regular movement and improved circulation. By week two, getting up off the floor becomes easier as your functional strength and mobility improve. Week four brings the realization that carrying kids feels lighter, not because they've lost weight, but because you've gained strength and better movement patterns. By week eight, you can play at the park without the next-day regret and soreness that used to follow family outings. At the 12-week mark, many parents report feeling stronger and more capable than they did before having children, having built systematic strength and resilience through consistent small efforts.
 
 Small efforts, big results.
-
-## Real Parent Wins
-
-**Sarah, mom of three:** "I do counter push-ups while making breakfast and squats while the baby naps in the carrier. Haven't had back pain in months, and I can actually keep up at the playground."
-
-**Mike, dad of twins:** "The red light resets changed everything. My 40-minute commute used to destroy my back. Now I use it for micro-movements. Game changer."
-
-**Jessica, single mom:** "I turned bedtime into exercise time. While my daughter brushes her teeth, I do squats. During story time, I stretch. We both sleep better."
 
 ## When to Get Professional Help
 

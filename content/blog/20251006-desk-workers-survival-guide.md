@@ -4,7 +4,6 @@ date = "2025-10-06T00:00:00-00:00"
 tags = ["desk worker", "posture", "pain relief", "workplace wellness", "ergonomics"]
 categories = ["Workplace Health"]
 banner = "img/banners/2025/blog-20251006.png"
-author = "Dr. Preston Arnold"
 +++
 
 Your body was designed to move, hunt, gather, and explore. Instead, it spends 8-10 hours daily in a position that would have horrified your ancestors: hunched over a glowing rectangle. The result? A epidemic of "desk worker syndrome"—that toxic combination of forward head posture, rounded shoulders, tight hips, and a core that's forgotten its job.
@@ -148,14 +147,6 @@ The lack of energy after work is often attributed to mental fatigue, but physica
 ## The Weekend Warrior Warning
 
 Many desk workers fall into the trap of trying to compensate for a sedentary week with intense weekend activities, but this approach often backfires and leads to injury. Don't try to fix five days of sitting with weekend heroics that ask your body to do things it's not prepared for. Instead, maintain daily movement throughout the week with the 15-minute reset and hourly breaks, keeping your body in a state of readiness. Build your activity levels gradually over time rather than jumping into intense activities, allowing your tissues to adapt and strengthen progressively. Focus on consistency rather than intensity, as regular moderate activity is far more beneficial than sporadic intense efforts. Avoid the boom-bust cycles that characterize weekend warriors, where periods of high activity are followed by periods of complete inactivity.
-
-## Real Desk Worker Transformations
-
-**James, Software Developer:** "The 15-minute reset eliminated my chronic back pain. I can actually play with my kids after work now."
-
-**Maria, Accountant:** "Hourly breaks seemed impossible until I tried. Now I'm more productive AND pain-free."
-
-**David, Manager:** "Standing meetings and desk exercises changed everything. My team adopted them too!"
 
 ## Your Desk Survival Action Plan
 

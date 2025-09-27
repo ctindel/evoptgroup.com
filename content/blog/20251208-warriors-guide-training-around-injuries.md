@@ -4,7 +4,6 @@ date = "2025-12-08T00:00:00-00:00"
 tags = ["injury recovery", "training modifications", "workout alternatives", "rehabilitation", "mental toughness"]
 categories = ["Training Strategy"]
 banner = "img/banners/2025/blog-20251208.png"
-author = "Dr. Preston Arnold"
 +++
 
 "I can't work out, I'm injured." This might be the most expensive lie in fitness. While you're sitting on the couch waiting for your shoulder/knee/back to heal, you're losing muscle, gaining fat, and destroying the momentum you worked months to build.
@@ -211,13 +210,6 @@ Reduce your normal training volume to 50% to allow your body to readapt to full 
 ### Progressive Loading
 Follow a systematic progression that allows your tissues to adapt gradually. **Week 1** starts conservatively at 50% of your previous volume and intensity to gauge readiness. **Week 2** increases to 60% as you build confidence and tissue tolerance. **Week 3** advances to 75% as you begin approaching normal training demands. **Week 4** reaches 90% intensity and volume, nearly back to full capacity. **Week 5** represents your full return to normal training, stronger and more resilient than before your injury.
 
-## Real Warrior Comeback Stories
-
-**Mike, Powerlifter:** "Trained around torn bicep for 6 months. Hit squat and deadlift PRs during recovery. Came back stronger overall."
-
-**Sarah, CrossFitter:** "Broken foot didn't stop me. Focused on gymnastics and got my first muscle-up during injury."
-
-**Tom, Runner:** "Knee surgery recovery became my strength transformation. PR'd my marathon 6 months post-surgery."
 
 ## Your Injury Training Action Plan
 

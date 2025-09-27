@@ -4,7 +4,6 @@ date = "2025-12-22T00:00:00-00:00"
 tags = ["migraines", "headaches", "neck pain", "cervical spine", "pain management"]
 categories = ["Pain Management"]
 banner = "img/banners/2025/blog-20251222.png"
-author = "Dr. Preston Arnold"
 +++
 
 You've tried everything. Medications that cost more than car payments. Botox injections. Elimination diets. Dark rooms. Ice packs. Meditation apps. Yet the migraines keep coming, stealing days from your life and leaving you desperate for answers.
@@ -250,13 +249,6 @@ Building an effective treatment team starts with three key professionals. A phys
 ### Valuable Support Team Members:
 Expand your team based on specific needs and responses to initial treatment. A skilled massage therapist can provide targeted soft tissue work that complements your exercise program. A chiropractor may help with spinal alignment issues that contribute to neck dysfunction. An acupuncturist can offer pain relief and stress reduction through traditional Chinese medicine approaches. A psychologist specializing in chronic pain helps develop coping strategies and addresses the mental health aspects of living with chronic headaches. A nutritionist can identify dietary triggers and develop anti-inflammatory eating plans that support healing.
 
-## Real Migraine Freedom Stories
-
-**Jennifer, Teacher:** "20 years of migraines gone after 6 weeks of neck PT. I got my life back."
-
-**Mark, Programmer:** "Fixing my posture and neck eliminated 90% of my migraines. Wish I'd known sooner."
-
-**Lisa, Mom of 3:** "The neck connection was my missing link. From daily migraines to maybe monthly."
 
 ## Your 30-Day Migraine Freedom Plan
 

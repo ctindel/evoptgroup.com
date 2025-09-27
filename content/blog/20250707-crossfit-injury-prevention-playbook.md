@@ -4,7 +4,6 @@ date = "2025-07-07T00:00:00-00:00"
 tags = ["CrossFit", "injury prevention", "functional fitness", "recovery", "mobility"]
 categories = ["Sports Performance"]
 banner = "img/banners/2025/blog-20250707.png"
-author = "Dr. Preston Arnold"
 +++
 
 "I don't have time for mobility work."
@@ -137,16 +136,6 @@ Invest in professional care as preventive medicine rather than reactive treatmen
 **One Rep Too Many:**
 The rep that injures you is never worth it. Your ego will heal faster than your labrum.
 
-## Real CrossFit Success Stories
-
-**Jake, 28, competitive athlete:**
-"Tore my labrum doing high-rep muscle-ups when tired. Six months out. Now I do 15 minutes of shoulder prep daily, haven't missed a workout in 2 years. Stronger than before injury."
-
-**Amanda, 35, CrossFit mom:**
-"Herniated disc trying to PR my deadlift after 'Fran.' Spent 12 weeks in PT. Now I follow strict programming, always warm up, never max out when fatigued. Still PR'ing, just smarter."
-
-**Marcus, 42, masters athlete:**
-"Ignored mobility for years. Could barely overhead squat the bar. Committed to 20 minutes daily mobility. Six months later, overhead squatting 225. Wish I'd started sooner."
 
 ## The Insurance Advantage
 

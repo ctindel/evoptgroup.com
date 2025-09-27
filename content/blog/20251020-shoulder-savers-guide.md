@@ -4,7 +4,6 @@ date = "2025-10-20T00:00:00-00:00"
 tags = ["shoulder pain", "rotator cuff", "injury prevention", "upper body", "rehabilitation"]
 categories = ["Pain Management"]
 banner = "img/banners/2025/blog-20251020.png"
-author = "Dr. Preston Arnold"
 +++
 
 Shoulders are engineering marvels—the most mobile joints in your body. They let you throw 100mph fastballs, lift heavy objects overhead, and reach that top shelf. But this incredible mobility comes at a price: instability. And in our modern world of desk work, phone scrolling, and poor posture, shoulders take a beating.
@@ -157,13 +156,6 @@ Perform 50 band pull-aparts to maintain rear deltoid strength and counter forwar
 **Weekly (20 minutes):**
 Complete your full rotator cuff strengthening routine to maintain the stability these muscles provide. Dedicate time to thoracic mobility work, as a stiff mid-back will cause shoulder problems to return. Engage in progressive strengthening exercises to continue building resilience. Assess your movement quality regularly to catch problems early before they become painful again.
 
-## Real Success Stories
-
-**Tom, Pitcher:** "The serratus work was a game-changer. Velocity up, pain gone."
-
-**Linda, Swimmer:** "Understanding the connection between breathing and shoulder pain transformed my stroke."
-
-**Robert, Contractor:** "Learning to use my whole body instead of just shoulders saved my career."
 
 ## The Bottom Line
 

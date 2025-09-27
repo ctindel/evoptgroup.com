@@ -4,7 +4,6 @@ date = "2025-09-29T00:00:00-00:00"
 tags = ["running", "injury prevention", "sports medicine", "endurance", "training"]
 categories = ["Sports Performance"]
 banner = "img/banners/2025/blog-20250929.png"
-author = "Dr. Preston Arnold"
 +++
 
 Every runner knows the statistic: 80% of runners get injured each year. But what if I told you that number has more to do with how we run than the fact that we run? After treating hundreds of runners—from couch-to-5K warriors to Boston qualifiers—I've seen the same injuries repeatedly. More importantly, I've seen how to prevent them.
@@ -127,14 +126,6 @@ Remember: Taking 1 week off early saves 6 weeks off later.
 ## When to Seek Help
 
 Certain warning signs indicate that self-treatment isn't appropriate and professional help is needed immediately. Recognize these red flags that require immediate professional assessment: pain that forces alterations to your natural running gait, as compensation patterns often lead to additional injuries. Night pain or throbbing that disturbs sleep indicates inflammation or tissue damage that needs professional attention. Swelling that doesn't resolve with appropriate ice and elevation within 48 hours suggests significant tissue damage. Pain that increases despite adequate rest indicates ongoing tissue damage rather than normal training soreness. Any sharp, shooting sensations during or after running can indicate nerve involvement or significant tissue damage that requires immediate evaluation.
-
-## Real Runner Recoveries
-
-**Lisa, Boston Qualifier:** "Learning to strength train and actually rest transformed my running. PR'd at 42 years old!"
-
-**Mike, Ultra Runner:** "Fixing my cadence eliminated my chronic IT band issues. 100-milers are now possible."
-
-**Sarah, New Runner:** "The gradual build-up approach got me to my first marathon injury-free."
 
 ## Your 30-Day Injury Prevention Challenge
 

@@ -4,7 +4,6 @@ date = "2025-10-13T00:00:00-00:00"
 tags = ["foam rolling", "recovery", "myofascial release", "injury prevention", "self-care"]
 categories = ["Recovery"]
 banner = "img/banners/2025/blog-20251013.png"
-author = "Dr. Preston Arnold"
 +++
 
 Walk into any gym and you'll see them: people grimacing as they roll back and forth on foam cylinders, believing that more pain equals more gain. Some swear by it, others think it's torture, and most have no idea what they're actually trying to accomplish. After years of research and clinical experience, it's time to separate foam rolling fact from fiction.
@@ -153,13 +152,6 @@ Experiment with trigger point holds for stubborn areas that don't respond to reg
 ### Week 4: Integration
 By week four, make foam rolling so automatic you don't have to think about it. Integrate it seamlessly into your pre and post-workout routines, customize your approach to your specific needs and problem areas, and honestly assess your results and progress. This self-assessment will guide your long-term approach.
 
-## Real Results from Proper Rolling
-
-**Tom, Marathon Runner:** "Switching from aggressive to gentle rolling eliminated my IT band pain. Less really was more."
-
-**Sarah, CrossFitter:** "Adding breathing to my rolling routine changed everything. Recovery improved dramatically."
-
-**Mike, Weekend Warrior:** "5 minutes of targeted rolling beats 30 minutes of random torture. I actually enjoy it now."
 
 ## Your Foam Rolling Action Plan
 

@@ -4,7 +4,6 @@ date = "2025-12-15T00:00:00-00:00"
 tags = ["business travel", "travel fitness", "hotel workouts", "productivity", "workplace wellness"]
 categories = ["Workplace Health"]
 banner = "img/banners/2025/blog-20251215.png"
-author = "Dr. Preston Arnold"
 +++
 
 Monday: Chicago. Tuesday: Dallas. Wednesday: Client dinner. Thursday: Red-eye to NYC. Friday: Collapse at home, order pizza, skip workout. Sound familiar? Business travel doesn't just wreck your fitness routine—it destroys your energy, productivity, and eventually, your career performance.
@@ -203,13 +202,6 @@ Jet lag feels unavoidable but responds well to systematic protocols. Light expos
 **The Business Dinner Trap:**
 Business dinners don't automatically equal weight gain. Your choices within those dinners determine outcomes. Strategic selection and portion control make all the difference.
 
-## Real Road Warrior Success Stories
-
-**James, Sales Executive:** "Lost 30 pounds while traveling 200 days/year. Hotel workouts became my meditation."
-
-**Maria, Consultant:** "PR'd my deadlift after 6 months of primarily hotel training. Consistency beats perfection."
-
-**David, CEO:** "Energy increased 50% after implementing travel fitness. Best ROI of any investment."
 
 ## Your 30-Day Travel Transformation
 

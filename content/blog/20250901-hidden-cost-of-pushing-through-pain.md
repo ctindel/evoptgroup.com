@@ -4,7 +4,6 @@ date = "2025-09-01T00:00:00-00:00"
 tags = ["injury prevention", "sports medicine", "pain management"]
 categories = ["Education"]
 banner = "img/banners/2025/blog-20250901.png"
-author = "Dr. Preston Arnold"
 +++
 
 Every athlete knows the feeling. That nagging shoulder discomfort during your serve. The knee that's "just a little stiff" after practice. The back that "loosens up" once you get moving. We've been conditioned to believe that playing through pain is part of being tough, but here's what two decades in sports medicine has taught me: the athletes who have the longest, most successful careers aren't the ones who ignore pain—they're the ones who address it early.

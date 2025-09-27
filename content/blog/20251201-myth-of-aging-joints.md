@@ -4,7 +4,6 @@ date = "2025-12-01T00:00:00-00:00"
 tags = ["arthritis", "aging", "joint health", "pain management", "active aging"]
 categories = ["Active Aging"]
 banner = "img/banners/2025/blog-20251201.png"
-author = "Dr. Preston Arnold"
 +++
 
 "It's just arthritis. You're getting older. Learn to live with it." If you're over 40, you've probably heard this from a doctor while looking at an X-ray showing "degenerative changes." They make it sound like your body has an expiration date, and you've reached it.
@@ -200,13 +199,6 @@ Begin with squats or leg press for 3 sets of 12 repetitions to strengthen the mu
 - Ankles (often forgotten)
 - Wrists (for daily function)
 
-## Real Stories of "Reversing" Aging
-
-**Tom, 67:** "Told I needed knee replacement at 60. Seven years later, I'm running 5Ks pain-free. The secret? Strength training and weight loss."
-
-**Margaret, 72:** "My 'severe arthritis' disappeared when I started swimming and strength training. My doctor can't explain it."
-
-**Robert, 58:** "Back surgery recommended at 55. Fixed it with core work and hip mobility. Still playing tennis at 58."
 
 ## The Mindset Shift That Changes Everything
 

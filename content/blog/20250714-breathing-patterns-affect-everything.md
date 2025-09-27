@@ -4,7 +4,6 @@ date = "2025-07-14T00:00:00-00:00"
 tags = ["breathing", "pain management", "performance", "stress", "core stability"]
 categories = ["Education"]
 banner = "img/banners/2025/blog-20250714.png"
-author = "Dr. Preston Arnold"
 +++
 
 Take a breath right now. Notice where it goes. Is your chest rising? Shoulders lifting? Belly moving?
@@ -120,17 +119,6 @@ Count your breaths for one full minute while at rest in a comfortable position. 
 
 ### For Performance
 **The Power Breath:** This technique optimizes breathing for athletic performance and explosive movements. Take a quick, sharp inhale through your nose to create internal pressure and core stability, then forcefully exhale through your mouth during the explosive portion of the movement. Practice matching this breathing pattern to your lifting cadence, using the exhale to enhance power production and maintain core stability under load.
-
-## Real Breathing Transformations
-
-**Jason, CrossFit athlete:**
-"My coach noticed I was holding my breath during lifts. Learned to breathe properly. Added 30 pounds to my squat and stopped having back pain. Breathing was the missing link."
-
-**Maria, chronic neck pain:**
-"20 years of neck pain. Tried everything. PT showed me I was breathing with my neck 20,000 times a day. Fixed my breathing, pain gone in 6 weeks."
-
-**David, anxiety sufferer:**
-"Thought I needed medication. Turns out I was breathing myself into panic. Daily breathing practice changed my life. Haven't had a panic attack in months."
 
 ## The Daily Breathing Practice
 

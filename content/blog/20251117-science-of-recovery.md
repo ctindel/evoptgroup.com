@@ -4,7 +4,6 @@ date = "2025-11-17T00:00:00-00:00"
 tags = ["recovery", "performance", "sleep", "nutrition", "training science"]
 categories = ["Sports Science"]
 banner = "img/banners/2025/blog-20251117.png"
-author = "Dr. Preston Arnold"
 +++
 
 You crushed today's workout. PR'd your deadlift. Ran your fastest 5K. Dominated that HIIT class. You're exhausted, sore, and proud. But here's the truth that might shock you: you're not getting stronger right now. In fact, you're weaker than when you started. The magic happens during recovery—and most of you are doing it completely wrong.
@@ -224,14 +223,6 @@ Add a second recovery tool that complements the first and addresses another area
 
 ### Week 4: Integration
 Run your full recovery protocol consistently to establish it as routine rather than conscious effort. Solidify habits through consistent practice until recovery practices become automatic. Monitor performance improvements that result from better recovery practices. Master the balance between training stress and recovery capacity for optimal long-term progress.
-
-## Real Recovery Transformations
-
-**Alex, CrossFitter:** "Adding 2 recovery days doubled my PR progress in 6 weeks."
-
-**Sarah, Marathon Runner:** "Focusing on sleep dropped my times by 5 minutes."
-
-**Mike, Powerlifter:** "Proper recovery added 50 pounds to my total in 3 months."
 
 ## The Bottom Line
 

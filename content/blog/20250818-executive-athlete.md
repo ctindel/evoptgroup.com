@@ -4,7 +4,6 @@ date = "2025-08-18T00:00:00-00:00"
 tags = ["executive health", "corporate wellness", "injury prevention", "performance optimization"]
 categories = ["Executive Wellness"]
 banner = "img/banners/2025/blog-20250818.png"
-author = "Dr. Preston Arnold"
 +++
 
 You wake up at 5:30 AM for your workout before the board meeting. Your teenage son sleeps until noon after last night's game. You both consider yourselves athletes, but here's the reality check: you need physical therapy more than he does.
@@ -91,13 +90,6 @@ Your weekly schedule should follow a sustainable pattern that works with your en
 ### Monthly Optimization:
 Monthly optimization follows the same systematic approach you use in business. Schedule professional assessment or treatment to address any emerging issues before they become limiting factors in your performance. Make program adjustments based on your actual results and changing demands rather than sticking rigidly to a plan that no longer serves your goals. Implement a recovery week every fourth week to prevent overreaching—think of it as planned downtime that prevents unplanned breakdowns. Include performance testing with objective tracking to measure your progress, because what gets measured gets managed, and your body deserves the same attention to metrics as your business.
 
-## Real Executive Athletes
-
-**Mark, 52, CEO of Tech Company:**
-"I was training for a triathlon while managing an acquisition. Ended up with plantar fasciitis that wouldn't heal. Three months of PT not only fixed my foot but improved my running efficiency by 15%. More importantly, I learned how to maintain my body like I maintain my business—systematically."
-
-**Jennifer, 48, Managing Partner:**
-"I thought needing PT meant I was getting old. Now I realize it means I'm getting smart. Monthly maintenance keeps me playing tennis three times a week and skiing with my kids. It's the best investment I make."
 
 ## The Mindset Shift
 

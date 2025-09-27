@@ -4,7 +4,6 @@ date = "2025-07-21T00:00:00-00:00"
 tags = ["masters athletes", "aging athlete", "longevity", "performance", "training adaptation"]
 categories = ["Sports Performance"]
 banner = "img/banners/2025/blog-20250721.png"
-author = "Dr. Preston Arnold"
 +++
 
 At 25, you could eat pizza for breakfast, skip warm-up, play three hours of basketball, and wake up ready to do it again. At 45, you sleep wrong and need a week to recover. What happened?

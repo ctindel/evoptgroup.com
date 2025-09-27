@@ -4,7 +4,6 @@ date = "2025-10-27T00:00:00-00:00"
 tags = ["golf", "sports performance", "flexibility", "strength training", "injury prevention"]
 categories = ["Sports Performance"]
 banner = "img/banners/2025/blog-20251027.png"
-author = "Dr. Preston Arnold"
 +++
 
 Golf looks gentle—until you realize you're rotating your spine at 100+ mph, generating forces up to 8 times your body weight, and doing it 70+ times per round. No wonder 80% of golfers experience back pain and the average golfer loses 5 yards of distance per decade after 30.
@@ -197,14 +196,6 @@ Introduce progressive loading to build strength in the new movement patterns you
 
 ### Week 4: Transfer to Course
 Implement your full pre-round routine before playing to prepare your body for peak performance. Consciously apply your improved movements during actual play rather than reverting to old patterns under pressure. Track results both in traditional scores and in how you feel during and after rounds. Commit to maintaining your program long-term, as the benefits only continue if the work continues.
-
-## Real Golfer Transformations
-
-**Jack, 55, 15 handicap:** "Added 25 yards to drives and eliminated back pain. Wish I'd done this 20 years ago."
-
-**Susan, 42, 8 handicap:** "Hip mobility work fixed my slice. Gained accuracy AND distance."
-
-**Bill, 68, 20 handicap:** "Playing pain-free for first time in decade. Actually enjoying golf again."
 
 ## The Bottom Line
 

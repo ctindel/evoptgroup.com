@@ -4,7 +4,6 @@ date = "2025-08-25T00:00:00-00:00"
 tags = ["weekend warrior", "injury prevention", "active lifestyle", "sports medicine"]
 categories = ["Fitness"]
 banner = "img/banners/2025/blog-20250825.png"
-author = "Dr. Preston Arnold"
 +++
 
 You know the cycle. Five days of desk work, followed by two days of trying to reclaim your athletic glory. Saturday's basketball game feels great... until Sunday morning when you can barely get out of bed. By Monday, you're hobbling into the office, promising yourself you'll "ease back into it" next weekend. Sound familiar?
