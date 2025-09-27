@@ -566,27 +566,15 @@ blockquote {
   position: relative;
 }
 
-/* Force the text to be large - but respect responsive classes */
+/* Force the text to be large */
 #top .col-xs-5 {
   text-align: center !important;
   width: 100% !important;
-  color: #fff !important;
-}
-
-#top .col-xs-5 span:not(.visible-xs):not(.visible-sm) {
   font-size: 28px !important;
   font-weight: 700 !important;
   letter-spacing: 0.5px !important;
+  color: #fff !important;
   line-height: 40px !important;
-}
-
-/* Mobile version of topbar text */
-@media (max-width: 767px) {
-  #top .col-xs-5 span {
-    font-size: 22px !important;
-    font-weight: 700 !important;
-    line-height: 30px !important;
-  }
 }
 
 #top .col-xs-7 {
@@ -629,11 +617,9 @@ blockquote {
 }
 
 @media (max-width: 767px) {
-  #top .col-xs-7 {
-    position: static;
-    transform: none;
-    text-align: center;
-    margin-top: 5px;
+  #top .col-xs-5 {
+    font-size: 22px !important;
+    line-height: 30px !important;
     width: 100% !important;
   }
 }
@@ -663,6 +649,47 @@ blockquote {
     display: none !important;
   }
 }
+
+/* ===== MOBILE FOOTER SOCIAL ICONS ===== */
+.mobile-social-footer {
+  text-align: center;
+  padding: 20px 0;
+}
+
+.mobile-social-footer h4 {
+  color: #ffffff;
+  margin-bottom: 15px;
+  font-size: 16px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.mobile-social-footer .social a {
+  display: inline-block;
+  background: transparent !important;
+  color: #ffffff !important;
+  border: none !important;
+  margin: 0 10px;
+  font-size: 18px;
+  transition: all 0.3s ease;
+  text-decoration: none;
+}
+
+.mobile-social-footer .social a:hover {
+  color: #AF8B5A !important;
+  transform: scale(1.1);
+  background: transparent !important;
+}
+
+.mobile-social-footer .social a i {
+  font-size: 18px !important;
+  color: #ffffff !important;
+}
+
+.mobile-social-footer .social a:hover i {
+  color: #AF8B5A !important;
+}
+
 
 /* ===== MOBILE HAMBURGER MENU FIX ===== */
 /* Fix for Font Awesome hamburger icon */
