@@ -618,15 +618,23 @@ blockquote {
 }
 
 @media (max-width: 767px) {
+  #top {
+    padding: 12px 0 !important;
+    font-weight: 900 !important;
+  }
+
   #top .col-xs-12,
-  #top .col-xs-12.col-sm-5 {
-    font-size: 26px !important;
-    font-weight: 700 !important;
-    line-height: 34px !important;
+  #top .col-xs-12.col-sm-5,
+  #top .container {
+    font-size: 24px !important;
+    font-weight: 900 !important;
+    line-height: 32px !important;
     text-align: center !important;
     width: 100% !important;
-    letter-spacing: 0.3px !important;
-    padding: 15px 10px !important;
+    letter-spacing: -0.5px !important;
+    padding: 0 15px !important;
+    color: #ffffff !important;
+    text-transform: uppercase !important;
   }
 }
 
@@ -680,16 +688,22 @@ blockquote {
   .mobile-book-btn {
     display: inline-block !important;
     margin-right: 10px !important;
-    padding: 8px 12px !important;
-    font-size: 12px !important;
+    padding: 10px 16px !important;
+    font-size: 14px !important;
+    font-weight: 600 !important;
     background-color: #193B44 !important;
-    border-color: #193B44 !important;
+    border: 2px solid #193B44 !important;
     color: #fff !important;
+    text-transform: uppercase !important;
+    letter-spacing: 0.5px !important;
+    border-radius: 4px !important;
   }
 
-  .mobile-book-btn:hover {
+  .mobile-book-btn:hover,
+  .mobile-book-btn:active {
     background-color: #2B4E53 !important;
     border-color: #2B4E53 !important;
+    text-decoration: none !important;
   }
 }
 
