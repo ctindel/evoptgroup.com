@@ -620,16 +620,63 @@ blockquote {
 @media (max-width: 767px) {
   #top .col-xs-12,
   #top .col-xs-12.col-sm-5 {
-    font-size: 22px !important;
-    line-height: 30px !important;
+    font-size: 26px !important;
+    font-weight: 700 !important;
+    line-height: 34px !important;
     text-align: center !important;
     width: 100% !important;
+    letter-spacing: 0.3px !important;
+    padding: 15px 10px !important;
   }
 }
 
 
+/* ===== MOBILE OVERRIDES ===== */
+/* Force hide social icons in header on mobile - using multiple approaches */
+@media only screen and (max-width: 767px) {
+  #top .social {
+    display: none !important;
+    visibility: hidden !important;
+  }
+
+  #top .col-sm-7 {
+    display: none !important;
+    visibility: hidden !important;
+  }
+}
+
+/* Target mobile devices specifically */
+@media only screen and (max-device-width: 480px) {
+  #top .social {
+    display: none !important;
+    visibility: hidden !important;
+  }
+
+  #top .col-sm-7 {
+    display: none !important;
+    visibility: hidden !important;
+  }
+}
+
+/* iPhone specific */
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) {
+  #top .social {
+    display: none !important;
+    visibility: hidden !important;
+  }
+
+  #top .col-sm-7 {
+    display: none !important;
+    visibility: hidden !important;
+  }
+}
+
 /* ===== MOBILE BOOK NOW BUTTON ===== */
-@media (max-width: 767px) {
+.mobile-book-btn {
+  display: none;
+}
+
+@media only screen and (max-width: 767px) {
   .mobile-book-btn {
     display: inline-block !important;
     margin-right: 10px !important;
@@ -647,7 +694,7 @@ blockquote {
 }
 
 /* Hide mobile book button on larger screens */
-@media (min-width: 768px) {
+@media only screen and (min-width: 768px) {
   .mobile-book-btn {
     display: none !important;
   }
@@ -655,42 +702,66 @@ blockquote {
 
 /* ===== MOBILE FOOTER SOCIAL ICONS ===== */
 .mobile-social-footer {
-  text-align: center;
-  padding: 20px 0;
+  display: none;
+}
+
+@media only screen and (max-width: 767px) {
+  .mobile-social-footer {
+    display: block !important;
+    text-align: center;
+    padding: 20px 0;
+    border-top: 1px solid rgba(255,255,255,0.1);
+    margin-top: 20px;
+  }
 }
 
 .mobile-social-footer h4 {
   color: #ffffff;
-  margin-bottom: 15px;
-  font-size: 16px;
+  margin-bottom: 20px;
+  font-size: 18px;
   text-transform: uppercase;
   letter-spacing: 0.5px;
+  font-weight: 600;
+}
+
+.mobile-social-footer .social {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 15px;
 }
 
 .mobile-social-footer .social a {
-  display: inline-block;
-  background: transparent !important;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  background: rgba(255, 255, 255, 0.1) !important;
   color: #ffffff !important;
-  border: none !important;
-  margin: 0 10px;
+  border: 1px solid rgba(255, 255, 255, 0.2) !important;
+  border-radius: 50%;
   font-size: 18px;
   transition: all 0.3s ease;
   text-decoration: none;
 }
 
-.mobile-social-footer .social a:hover {
-  color: #AF8B5A !important;
+.mobile-social-footer .social a:hover,
+.mobile-social-footer .social a:active {
+  color: #193B44 !important;
   transform: scale(1.1);
-  background: transparent !important;
+  background: #AF8B5A !important;
+  border-color: #AF8B5A !important;
 }
 
 .mobile-social-footer .social a i {
   font-size: 18px !important;
-  color: #ffffff !important;
+  line-height: 1;
 }
 
 .mobile-social-footer .social a:hover i {
-  color: #AF8B5A !important;
+  color: #193B44 !important;
 }
 
 
