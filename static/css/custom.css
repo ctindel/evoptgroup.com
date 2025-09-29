@@ -561,14 +561,16 @@ blockquote {
 }
 
 /* ===== TOP BAR TEXT STYLING ===== */
-/* Desktop styling - normal size */
+/* Desktop styling */
 #top .container {
   position: relative;
 }
 
 #top .col-sm-5 {
-  font-size: 14px;
+  font-size: 20px !important;
+  font-weight: 600 !important;
   color: #fff;
+  line-height: 1.4;
 }
 
 /* Position social icons on desktop */
@@ -614,9 +616,9 @@ blockquote {
 
   #top .col-xs-12,
   #top .col-xs-12.col-sm-5 {
-    font-size: 18px !important;
-    font-weight: 600 !important;
-    line-height: 26px !important;
+    font-size: 22px !important;
+    font-weight: 700 !important;
+    line-height: 30px !important;
     text-align: center !important;
     width: 100% !important;
     color: #ffffff !important;
