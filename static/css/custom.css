@@ -567,7 +567,8 @@ blockquote {
   text-align: center;
 }
 
-#top .col-sm-5 {
+#top .col-sm-5,
+#top .col-xs-5 {
   font-size: 28px !important;
   font-weight: 700 !important;
   color: #fff;
@@ -577,7 +578,8 @@ blockquote {
 }
 
 /* Position social icons on desktop */
-#top .col-sm-7 {
+#top .col-sm-7,
+#top .col-xs-7 {
   position: absolute;
   right: 15px;
   top: 50%;
