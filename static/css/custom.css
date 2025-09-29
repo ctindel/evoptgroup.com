@@ -564,17 +564,25 @@ blockquote {
 /* Desktop styling */
 #top .container {
   position: relative;
+  text-align: center;
 }
 
 #top .col-sm-5 {
-  font-size: 20px !important;
-  font-weight: 600 !important;
+  font-size: 28px !important;
+  font-weight: 700 !important;
   color: #fff;
   line-height: 1.4;
+  text-align: center !important;
+  width: 100% !important;
 }
 
 /* Position social icons on desktop */
 #top .col-sm-7 {
+  position: absolute;
+  right: 15px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: auto !important;
   text-align: right;
 }
 
