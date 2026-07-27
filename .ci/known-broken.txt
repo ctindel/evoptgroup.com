@@ -1,0 +1,33 @@
+# Pre-existing broken internal refs, baselined 2026-07-27 when CI was
+# introduced. These are real bugs on the live site (dead carousel CTA
+# links in data/carousel/*.yaml; theme's relative img paths on paginated
+# pages). FIX and remove lines — never add lines to silence new breakage.
+index.html: /blog/2025/07/07/crossfit-injury-prevention-playbook/
+index.html: /blog/2025/08/25/weekend-warrior-survival-guide/
+index.html: /blog/2025/11/10/ultimate-guide-preventing-youth-sports-injuries/
+page/2/index.html: /blog/2025/07/07/crossfit-injury-prevention-playbook/
+page/2/index.html: /blog/2025/08/25/weekend-warrior-survival-guide/
+page/2/index.html: /blog/2025/11/10/ultimate-guide-preventing-youth-sports-injuries/
+page/2/index.html: img/carousel/slide01.png
+page/2/index.html: img/carousel/slide02.png
+page/2/index.html: img/carousel/slide03.png
+page/2/index.html: img/carousel/slide04.png
+page/2/index.html: img/carousel/slide05.png
+page/2/index.html: img/carousel/slide06.png
+page/2/index.html: img/carousel/slide07.png
+page/2/index.html: img/carousel/slide08.png
+page/2/index.html: img/carousel/slide09.png
+page/2/index.html: img/carousel/slide10.png
+page/3/index.html: /blog/2025/07/07/crossfit-injury-prevention-playbook/
+page/3/index.html: /blog/2025/08/25/weekend-warrior-survival-guide/
+page/3/index.html: /blog/2025/11/10/ultimate-guide-preventing-youth-sports-injuries/
+page/3/index.html: img/carousel/slide01.png
+page/3/index.html: img/carousel/slide02.png
+page/3/index.html: img/carousel/slide03.png
+page/3/index.html: img/carousel/slide04.png
+page/3/index.html: img/carousel/slide05.png
+page/3/index.html: img/carousel/slide06.png
+page/3/index.html: img/carousel/slide07.png
+page/3/index.html: img/carousel/slide08.png
+page/3/index.html: img/carousel/slide09.png
+page/3/index.html: img/carousel/slide10.png

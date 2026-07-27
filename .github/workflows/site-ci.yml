@@ -1,0 +1,43 @@
+name: site-ci
+
+# Build the Hugo site exactly as Amplify does and verify it renders:
+# homepage present, all internal links/assets resolve (minus the baselined
+# pre-existing breakage in .ci/known-broken.txt). Required check before
+# merging to main — main auto-deploys to AWS Amplify.
+#
+# GitHub-hosted runners are free for public repos, so this costs nothing.
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+
+# Hugo version note: the theme still uses .Site.Author (removed in newer
+# Hugo) while the blog permalink needs :contentbasename (added 0.145-ish).
+# Verified working window: 0.145.0 - 0.152.2. Pinned mid-window; bump
+# deliberately, never to "latest".
+env:
+  HUGO_VERSION: 0.147.9
+
+jobs:
+  build-and-verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install pinned Hugo
+        run: |
+          curl -sL "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz" \
+            | tar xz hugo
+          ./hugo version
+
+      - name: Clone theme (mirrors amplify.yml)
+        run: git clone --depth 1 https://github.com/devcows/hugo-universal-theme themes/hugo-universal-theme
+
+      - name: Build
+        run: ./hugo
+
+      - name: Verify render
+        run: python3 scripts/ci/render_check.py public
